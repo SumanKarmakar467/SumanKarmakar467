@@ -1,16 +1,16 @@
 <!-- 💻 Modern GitHub Profile README for Suman Karmakar -->
 
 <h1 align="center">Hi 👋, I'm Suman Karmakar</h1>
-<h3 align="center">🚀 MERN Stack Developer | Java & DSA Enthusiast | Problem Solver</h3>
+<h3 align="center">MERN Stack Developer | Java & DSA Enthusiast | Problem Solver</h3>
 
 ---
 
-### 👨‍💻 About Me
-💡 Passionate about crafting modern, scalable web applications using *ReactJS, **NodeJS, and **NextJS*.  
-🧠 Strong foundation in *Java* and *Data Structures & Algorithms (DSA)*.  
-🌱 Currently diving deeper into *DevOps* and *cloud deployment workflows*.  
-🎯 Goal: Build impactful digital products that make people's lives easier.  
-⚡ Fun fact: I love debugging more than coding — finding the bug feels like solving a mystery 🕵‍♂  
+### About Me
+Passionate about crafting modern, scalable web applications using *ReactJS, **NodeJS, and **NextJS*.  
+Strong foundation in *Java* and *Data Structures & Algorithms (DSA)*.  
+Currently diving deeper into *DevOps* and *cloud deployment workflows*.  
+Goal: Build impactful digital products that make people's lives easier.  
+Fun fact: I love debugging more than coding — finding the bug feels like solving a mystery 🕵‍♂  
 
 ---
 
