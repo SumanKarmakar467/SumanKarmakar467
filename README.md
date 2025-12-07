@@ -6,11 +6,11 @@
 ---
 
 ### About Me
-Passionate about crafting modern, scalable web applications using *ReactJS, **NodeJS, and **NextJS*.  
-Strong foundation in *Java* and *Data Structures & Algorithms (DSA)*.  
-Currently diving deeper into *DevOps* and *cloud deployment workflows*.  
-Goal: Build impactful digital products that make people's lives easier.  
-Fun fact: I love debugging more than coding — finding the bug feels like solving a mystery 🕵‍♂  
+> Passionate about crafting modern, scalable web applications using *ReactJS, **NodeJS, and **NextJS*.  
+> Strong foundation in *Java* and *Data Structures & Algorithms (DSA)*.  
+> Currently diving deeper into *DevOps* and *cloud deployment workflows*.  
+> Goal: Build impactful digital products that make people's lives easier.  
+> Fun fact: I love debugging more than coding — finding the bug feels like solving a mystery 🕵‍♂  
 
 ---
 
