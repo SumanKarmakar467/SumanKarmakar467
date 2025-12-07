@@ -1,7 +1,7 @@
 <!-- 💻 Modern GitHub Profile README for Suman Karmakar -->
 
 <h1 align="center">Hi 👋, I'm Suman Karmakar</h1>
-<h3 align="center">🚀 Full Stack Developer | Java & DSA Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 MERN Stack Developer | Java & DSA Enthusiast | Problem Solver</h3>
 
 ---
 
