@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Suman%20Karmakar&fontSize=52&fontColor=00f5ff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Open%20to%20SDE%20Roles&descAlignY=58&descSize=18&descColor=ffffff&stroke=00f5ff&strokeWidth=2" />
 </div>
+
 ---
 
 ### 👋 About Me
@@ -19,7 +20,19 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Resume_Checker v2.0</h3>
+      <h3>🏋️ GymForge</h3>
+      <p>Full-stack fitness companion app with JWT auth, AI-generated personalized workout plans, daily todo tracking, progress stats, and a custom gym wallpaper generator.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white"/>
+      </p>
+      <a href="https://gym-tan-theta.vercel.app">🔗 Live Demo</a> &nbsp;|&nbsp;
+      <a href="https://github.com/SumanKarmakar467/GYM">📂 Source Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Resume Checker v2.0</h3>
       <p>AI-powered ATS resume analysis platform. Upload your resume, get a 0–100 ATS score, keyword match highlights, section-wise breakdown, and Gemini AI rewrite suggestions.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -29,6 +42,19 @@
       </p>
       <a href="https://resume-checker-alpha-two.vercel.app">🔗 Live Demo</a> &nbsp;|&nbsp;
       <a href="https://github.com/SumanKarmakar467/Resume_Checker">📂 Source Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏋️ GymForge Next</h3>
+      <p>Production-grade migration of GymForge to Next.js 15 with TypeScript, Firebase Authentication, and Firestore persistence. Features strict TypeScript, App Router, and full CRUD state management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      </p>
+      <a href="https://gym-ready.vercel.app">🔗 Live Demo</a> &nbsp;|&nbsp;
+      <a href="https://github.com/SumanKarmakar467/GYM-Ready">📂 Source Code</a>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Developer Portfolio</h3>
@@ -52,6 +78,7 @@
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
@@ -69,6 +96,7 @@
 #### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 #### 🤖 AI & APIs
@@ -133,5 +161,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:1A56A0&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 </div>
