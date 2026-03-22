@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Suman%20Karmakar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Open%20to%20SDE%20Roles&descAlignY=58&descSize=18&descColor=e0c3fc&stroke=ffffff&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Suman%20Karmakar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Open%20to%20SDE%20Roles&descAlignY=58&descSize=18&descColor=a8edea&stroke=a8edea&strokeWidth=1" />
 </div>
-
 ---
 
 ### 👋 About Me
