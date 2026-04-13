@@ -19,7 +19,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <!-- <td width="50%" valign="top">
       <h3>🏋️ GymForge</h3>
       <p>Full-stack fitness companion app with JWT auth, AI-generated personalized workout plans, daily todo tracking, progress stats, and a custom gym wallpaper generator.</p>
       <p>
@@ -30,7 +30,7 @@
       </p>
       <a href="https://gym-tan-theta.vercel.app">🔗 Live Demo</a> &nbsp;|&nbsp;
       <a href="https://github.com/SumanKarmakar467/GYM">📂 Source Code</a>
-    </td>
+    </td> -->
     <td width="50%" valign="top">
       <h3>🧠 Resume Checker v2.0</h3>
       <p>AI-powered ATS resume analysis platform. Upload your resume, get a 0–100 ATS score, keyword match highlights, section-wise breakdown, and Gemini AI rewrite suggestions.</p>
