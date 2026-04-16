@@ -60,9 +60,9 @@
       <h3>🌐 Developer Portfolio</h3>
       <p>Personal portfolio website showcasing projects, skills, education timeline, certifications, and contact. Features light/dark mode and smooth UI interactions.</p>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
       </p>
       <a href="https://suman-karmakar.vercel.app">🔗 Live Demo</a> &nbsp;|&nbsp;
       <a href="https://github.com/SumanKarmakar467/Portfolio">📂 Source Code</a>
