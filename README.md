@@ -58,15 +58,16 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏋️ GymForge Next</h3>
-      <p>Production-grade migration of GymForge to Next.js 15 with TypeScript, Firebase Authentication, and Firestore persistence. Features strict TypeScript, App Router, and full CRUD state management.</p>
+      <h3>🏋️ GymForge</h3>
+      <p>Full-stack fitness companion app with JWT auth, AI-generated personalized workout plans, daily todo tracking, progress stats, and a custom gym wallpaper generator.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white"/>
       </p>
-      <a href="https://gym-ready.vercel.app">🔗 Live Demo</a> &nbsp;|&nbsp;
-      <a href="https://github.com/SumanKarmakar467/GYM-Ready">📂 Source Code</a>
+      <a href="https://gym-tan-theta.vercel.app">🔗 Live Demo</a> &nbsp;|&nbsp;
+      <a href="https://github.com/SumanKarmakar467/GYM">📂 Source Code</a>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Developer Portfolio</h3>
