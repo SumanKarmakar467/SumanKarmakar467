@@ -43,6 +43,8 @@
       <a href="https://resume-checker-alpha-two.vercel.app">🔗 Live Demo</a> &nbsp;|&nbsp;
       <a href="https://github.com/SumanKarmakar467/Resume_Checker">📂 Source Code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🔍 VerifyAI</h3>
       <p>AI-powered fake news and deepfake detection tool. Instantly verify the authenticity of headlines, articles, and media content with real-time AI analysis.</p>
@@ -55,8 +57,6 @@
       <a href="https://hakkanshah.github.io/VerifyAI/">🔗 Live Demo</a> &nbsp;|&nbsp;
       <a href="https://github.com/SumanKarmakar467/VerifyAI">📂 Source Code</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🌐 Developer Portfolio</h3>
       <p>Personal portfolio website showcasing projects, skills, education timeline, certifications, and contact. Features light/dark mode and smooth UI interactions.</p>
