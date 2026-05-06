@@ -43,6 +43,18 @@
       <a href="https://resume-checker-alpha-two.vercel.app">🔗 Live Demo</a> &nbsp;|&nbsp;
       <a href="https://github.com/SumanKarmakar467/Resume_Checker">📂 Source Code</a>
     </td>
+     <td width="50%" valign="top">
+    <h3>🔍 VerifyAI</h3>
+    <p>AI-powered fake news and deepfake detection tool. Instantly verify the authenticity of headlines, articles, and media content with real-time AI analysis.</p>
+    <p>
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white"/>
+    </p>
+    <a href="https://hakkanshah.github.io/VerifyAI/">🔗 Live Demo</a> &nbsp;|&nbsp;
+    <a href="https://github.com/SumanKarmakar467/VerifyAI">📂 Source Code</a>
+  </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
