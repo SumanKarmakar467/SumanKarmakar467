@@ -1,90 +1,90 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:312E81&text=Suman%20Karmakar&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%7C%20MERN%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0F172A,20:312E81,45:4F46E5,70:6D28D9,100:8B5CF6&text=Suman%20Karmakar&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Builder&descAlignY=58&descSize=20&animation=twinkling"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1200&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+MERN+Developer;Building+Production+Ready+Applications;REST+API+%7C+React+%7C+Node.js+%7C+MongoDB;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&center=true&vCenter=true&width=950&height=60&color=8B5CF6&lines=Software+Engineer;Full+Stack+MERN+Developer;Backend+Developer;AI+Powered+Application+Builder;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Always+Learning+New+Technologies"/>
 
 <br><br>
 
-![](https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/Final-Year-Student-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/CGPA-7.5-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/MERN-Developer-4338CA?style=for-the-badge)
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Final%20Year-Student-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-7.5-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN-Developer-4338CA?style=for-the-badge"/>
 
-<br>
+<br><br>
 
-![](https://img.shields.io/badge/Kolkata-India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white)
+<img src="https://img.shields.io/badge/Kolkata-West%20Bengal%2C%20India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br><br>
 
 <a href="https://sumankarmakar.is-a.dev">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-6D28D9?style=for-the-badge"/>
 </a>
 
 <a href="https://linkedin.com/in/suman-karmakar-jerry">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:karmakarsuman12138@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/SumanKarmakar467">
-<img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=SumanKarmakar467&style=for-the-badge&color=6D28D9)
+<img src="https://komarev.com/ghpvc/?username=SumanKarmakar467&label=Profile%20Views&color=6D28D9&style=for-the-badge"/>
 
-![](https://img.shields.io/github/followers/SumanKarmakar467?style=for-the-badge&color=4338CA&label=Followers)
+<img src="https://img.shields.io/github/followers/SumanKarmakar467?style=for-the-badge&logo=github&label=Followers&color=4338CA"/>
 
-![](https://img.shields.io/github/stars/SumanKarmakar467?style=for-the-badge&color=7C3AED&label=Stars)
+<img src="https://img.shields.io/github/stars/SumanKarmakar467?affiliations=OWNER&style=for-the-badge&label=Stars&color=7C3AED"/>
 
 </div>
 
 ---
 
-# About Me
+# 💫 About Me
 
-I'm **Suman Karmakar**, a Software Engineer and Final-Year Computer Science undergraduate passionate about building scalable, production-ready applications.
+Hi, I'm **Suman Karmakar**, a passionate **Software Engineer** and **Full Stack MERN Developer** from **Kolkata, India**.
 
-My primary expertise lies in the **MERN Stack**, where I enjoy designing clean architectures, developing RESTful APIs, and creating responsive user interfaces with modern React.
+I enjoy designing scalable applications, building secure REST APIs, and creating responsive user interfaces that solve real-world problems. My primary expertise is the **MERN Stack**, and I'm actively expanding my knowledge in backend engineering, cloud technologies, and AI-powered application development.
 
-I believe software engineering is more than writing code—it's about solving business problems through scalable systems, maintainable architecture, and exceptional user experience.
-
-Alongside full-stack engineering, I actively explore **Artificial Intelligence**, integrating AI-powered capabilities into web applications while continuously improving my understanding of system design, backend engineering, and cloud deployment.
-
-My engineering philosophy focuses on:
-
-- Building production-quality software
-- Writing maintainable and reusable code
-- Performance-first architecture
-- Secure authentication systems
-- API-first development
-- Continuous learning
-- Open-source contribution
-
-### Engineering Interests
-
-- Full Stack Development
-- Backend Engineering
-- REST API Design
-- AI-powered Applications
-- Database Design
-- Authentication & Security
-- Cloud Deployment
-- Software Architecture
-- System Design
-- Performance Optimization
+Over the past few years, I've built multiple production-ready projects ranging from fitness platforms and ATS resume analyzers to developer dashboards and AI-integrated web applications. I focus on writing clean, maintainable, and performance-oriented code while continuously improving through open-source contributions and Data Structures & Algorithms practice.
 
 ---
 
-## Open To
+## 🚀 What I Do
 
-✔ Software Engineer
+* ⚡ Build scalable Full Stack MERN applications
+* 🛠 Design RESTful APIs using Express.js
+* 🔐 Implement secure JWT Authentication & Authorization
+* 📦 Design MongoDB schemas with Mongoose
+* 🎨 Develop responsive UIs using React & Tailwind CSS
+* 🤖 Integrate AI APIs (Gemini, ChatGPT, Claude) into modern applications
+* ☁ Deploy production-ready applications on Vercel & Render
+* 📈 Optimize application performance and user experience
+
+---
+
+## 🎯 Current Focus
+
+* 🧠 Advanced Backend Engineering
+* ⚙ System Design Fundamentals
+* 🐳 Docker & Containerization
+* ☁ AWS Cloud Services
+* 🚀 Redis for Caching
+* 🤖 AI-Powered Product Development
+* 🌍 Open Source Contributions
+
+---
+
+## 🤝 Open To
+
+✔ Software Engineer (SDE)
 
 ✔ Full Stack Developer
 
@@ -92,364 +92,847 @@ My engineering philosophy focuses on:
 
 ✔ MERN Stack Developer
 
-✔ AI-powered Product Development
+✔ AI Application Development
 
 ✔ Open Source Collaboration
 
-✔ Internship Opportunities
+✔ Internship & Full-Time Opportunities
 
 ---
 
-# Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
-
-</p>
+> **"I believe great software is built with clean architecture, continuous learning, and a user-first mindset."**
 
 ---
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
-
-</p>
-
----
-
-## Backend & Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-
-</p>
-
----
-
-## Cloud, DevOps & Tooling
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,npm"/>
-
-</p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---------|------------|---------|
-| AI-assisted Development | ⭐⭐⭐⭐⭐ | Claude, ChatGPT, Codex, Cursor, GitHub Copilot |
-| Prompt Engineering | ⭐⭐⭐⭐☆ | Structured prompting for software development |
-| AI Integration | ⭐⭐⭐⭐☆ | AI-powered workflow integration into web apps |
-| REST API Development | ⭐⭐⭐⭐⭐ | Secure backend architecture and API design |
-| Database Modeling | ⭐⭐⭐⭐☆ | MongoDB schema design with Mongoose |
-| Frontend Engineering | ⭐⭐⭐⭐⭐ | React, Tailwind CSS, Vite |
-| Backend Engineering | ⭐⭐⭐⭐⭐ | Express.js, JWT Authentication |
-| Performance Optimization | ⭐⭐⭐⭐☆ | Caching, optimization and scalable architecture |
-
----
-
-# Featured Projects
-
-<details open>
-
-<summary>
-
-# ATS Resume Checker
-
-</summary>
-
-A production-ready full-stack ATS Resume Analyzer built using the MERN ecosystem that helps candidates evaluate resume compatibility against job descriptions using intelligent keyword matching and document parsing.
-
-| Category | Details |
-|-----------|----------|
-| Stack | React, Node.js, Express.js, REST API |
-| Scale | Multi-format Resume Analysis |
-| Performance | Response under 2 seconds |
-| Security | Input Validation |
-| Impact | Improves ATS compatibility for job seekers |
-| Repository | https://github.com/SumanKarmakar467 |
-
-### Highlights
-
-- PDF, DOCX and TXT support
-- Intelligent keyword extraction
-- ATS score generation
-- Resume recommendations
-- Optimized REST architecture
-- Production deployment
-
-</details>
-
----
-<details>
-
-<summary>
-
-# GymForge — Full Stack Fitness Platform
-
-</summary>
-
-GymForge is a scalable MERN-based fitness ecosystem designed to provide personalized workout planning, secure authentication, and productivity tools within a single application.
-
-| Category | Details |
-|-----------|----------|
-| Stack | MongoDB, Express.js, React.js, Node.js, Tailwind CSS, JWT |
-| Scale | Multi-user Fitness Platform |
-| Performance | Optimized Protected Routes |
-| Security | JWT Access & Refresh Authentication |
-| Impact | Personalized fitness experience |
-| Repository | https://github.com/SumanKarmakar467 |
-
-### Highlights
-
-- JWT Authentication
-- Access & Refresh Token Flow
-- Protected Dashboard
-- Workout Planner
-- AI-generated Workout Plans
-- Daily To-Do Manager
-- MongoDB User Profiles
-- Responsive UI
-- Render Deployment
-- Reusable Express Middleware
-
-</details>
-
----
-
-<details>
-
-<summary>
-
-# LeetCode Metrics Tracker
-
-</summary>
-
-A responsive analytics dashboard that visualizes public LeetCode statistics using real-time API integration with performance optimizations for faster repeated lookups.
-
-| Category | Details |
-|-----------|----------|
-| Stack | React.js, REST API, Vercel |
-| Scale | Public Coding Analytics |
-| Performance | Cached API Responses |
-| Security | Client-side Validation |
-| Impact | Helps developers monitor coding progress |
-| Repository | https://github.com/SumanKarmakar467/Leet_Code-Metrics |
-
-### Highlights
-
-- Real-time LeetCode Statistics
-- Dynamic Charts
-- Problem Distribution
-- Streak Analytics
-- API Response Caching
-- Mobile Responsive
-- Fast Rendering
-- Clean Dashboard UI
-
-</details>
-
----
-
-<details>
-
-<summary>
-
-# Personal Portfolio Website
-
-</summary>
-
-A premium portfolio website showcasing projects, technical skills, certifications, coding profiles, and engineering experience while maintaining high Lighthouse scores.
-
-| Category | Details |
-|-----------|----------|
-| Stack | React.js, Tailwind CSS, Vite |
-| Scale | Personal Engineering Portfolio |
-| Performance | 95+ Lighthouse Score |
-| Security | Static Deployment |
-| Impact | Professional Personal Branding |
-| Repository | https://github.com/SumanKarmakar467/Portfolio |
-
-### Highlights
-
-- Modern UI
-- Component Architecture
-- Smooth Animations
-- Responsive Design
-- SEO Optimized
-- Accessibility Score 100
-- Performance Optimized
-- GitHub Pages Deployment
-
-</details>
-
----
-
-# Experience
-
-## MERN Stack Developer
-
-**Self-Directed Projects & Continuous Learning**
-
-**2023 — Present**
-
-Designed, developed, and deployed multiple production-ready full-stack applications while continuously improving software engineering skills through practical development, algorithmic problem-solving, and open-source learning.
-
-### Scope of Work
-
-- Designed scalable MERN applications from scratch
-- Developed RESTful APIs using Express.js
-- Built reusable React component architecture
-- Designed MongoDB schemas using Mongoose
-- Implemented secure JWT authentication
-- Integrated AI-assisted workflows into web applications
-- Deployed applications on Vercel and Render
-- Practiced clean architecture and modular backend design
-- Solved Data Structures & Algorithms problems on LeetCode
-- Optimized frontend performance and backend response times
-
-### Skills
-
-`React`
-`Node.js`
-`Express.js`
-`MongoDB`
-`JWT`
-`REST API`
-`Tailwind CSS`
-`Git`
-`GitHub`
-`JavaScript`
-`Java`
-`Vercel`
-`Render`
-`AI Assisted Development`
-
----
-
-# Achievements
+# ⚡ Tech Stack
 
 <div align="center">
 
-| Recognition | Details |
-|-------------|---------|
-| 🎓 Final Year B.Tech Student | Computer Science & Engineering |
-| 💻 MERN Stack Developer | Production-ready Full Stack Applications |
-| 🚀 4+ Deployed Projects | React, Node.js, Express.js & MongoDB |
-| 📈 REST API Engineering | Secure backend architecture |
-| 🤖 AI-powered Development | Integrating AI into modern applications |
-| 🌐 Cloud Deployment | Vercel & Render |
-| 🧩 DSA Practice | Active LeetCode Problem Solver |
-| 📚 Continuous Learning | Backend Engineering & System Design |
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css" />
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux" />
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+---
+
+## ☁️ Cloud • DevOps • Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,render,docker,aws,githubactions" />
+</p>
+
+---
+
+## 🛠 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,bash" />
+</p>
 
 </div>
 
 ---
 
-# Certifications
+# 🤖 AI Engineering
 
-## AWS
-
-![](https://img.shields.io/badge/Learning-In_Progress-6D28D9?style=for-the-badge&logo=amazonaws)
-
----
-
-## Oracle
-
-![](https://img.shields.io/badge/Java-Fundamentals-4338CA?style=for-the-badge&logo=oracle)
-
----
-
-## NPTEL
-
-![](https://img.shields.io/badge/Future-Certification-7C3AED?style=for-the-badge)
+| Domain                   | Level | Technologies                        |
+| ------------------------ | :---: | ----------------------------------- |
+| Prompt Engineering       | ⭐⭐⭐⭐⭐ | ChatGPT, Claude, Gemini             |
+| AI Integration           | ⭐⭐⭐⭐☆ | Gemini API, REST APIs               |
+| AI-assisted Development  | ⭐⭐⭐⭐⭐ | Cursor, Claude Code, GitHub Copilot |
+| API Engineering          | ⭐⭐⭐⭐⭐ | REST API, Express.js                |
+| Backend Development      | ⭐⭐⭐⭐⭐ | Node.js, Express.js                 |
+| Frontend Development     | ⭐⭐⭐⭐⭐ | React.js, Tailwind CSS              |
+| Database Design          | ⭐⭐⭐⭐☆ | MongoDB, Mongoose                   |
+| Authentication           | ⭐⭐⭐⭐⭐ | JWT, Protected Routes               |
+| Performance Optimization | ⭐⭐⭐⭐☆ | Lazy Loading, API Caching           |
+| Deployment               | ⭐⭐⭐⭐⭐ | Vercel, Render                      |
 
 ---
 
-## Cisco
+# 📚 Technical Expertise
 
-![](https://img.shields.io/badge/Networking-Learning-312E81?style=for-the-badge&logo=cisco)
+| Category        | Technologies                                     |
+| --------------- | ------------------------------------------------ |
+| Languages       | Java • JavaScript • TypeScript • HTML5 • CSS3    |
+| Frontend        | React.js • Next.js • Tailwind CSS • Vite • Redux |
+| Backend         | Node.js • Express.js • Spring Boot               |
+| Database        | MongoDB • Mongoose • Firebase                    |
+| Authentication  | JWT • Protected Routes • Role-Based Access       |
+| API Development | REST APIs • CRUD • Middleware                    |
+| Version Control | Git • GitHub                                     |
+| Deployment      | Vercel • Render                                  |
+| IDE & Tools     | VS Code • Postman • npm                          |
+| Core CS         | OOP • DSA • MVC • DBMS • Operating Systems       |
 
 ---
 
-## Completed Certifications
+# 🚀 Software Engineering Principles
 
-![](https://img.shields.io/badge/Full_Stack_Web_Development-Completed-6D28D9?style=for-the-badge)
+```text
+✔ Clean Code
 
-![](https://img.shields.io/badge/HTML_CSS_JavaScript-YouAccel-4338CA?style=for-the-badge)
+✔ Scalable Architecture
 
-![](https://img.shields.io/badge/JavaScript_Bootstrap_PHP-YouAccel-7C3AED?style=for-the-badge)
+✔ Component Reusability
+
+✔ RESTful API Design
+
+✔ Authentication & Authorization
+
+✔ Responsive UI Development
+
+✔ Secure Backend Development
+
+✔ Mobile-First Design
+
+✔ Performance Optimization
+
+✔ Modular Folder Structure
+
+✔ Git Workflow
+
+✔ Continuous Learning
+```
 
 ---
 
-# Coding Profiles
+# 🧠 AI Toolkit
+
+<div align="center">
+
+| Tool              | Purpose                            |
+| ----------------- | ---------------------------------- |
+| 🤖 ChatGPT        | Code Generation & Debugging        |
+| 🧠 Claude         | Architecture & Backend Development |
+| ⚡ Cursor          | AI-assisted Coding                 |
+| 💎 GitHub Copilot | Code Completion                    |
+| ✨ Gemini          | AI Features & Integrations         |
+| 🔍 Postman AI     | API Testing                        |
+
+</div>
+
+---
+
+# 🏗 Development Workflow
+
+```text
+Idea
+   │
+   ▼
+
+UI / UX Planning
+   │
+   ▼
+
+Frontend Development (React)
+
+   │
+   ▼
+
+Backend API (Node + Express)
+
+   │
+   ▼
+
+MongoDB Database Design
+
+   │
+   ▼
+
+Authentication (JWT)
+
+   │
+   ▼
+
+Testing (Postman)
+
+   │
+   ▼
+
+Deployment (Vercel / Render)
+
+   │
+   ▼
+
+Maintenance & Optimization
+```
+
+---
+
+<div align="center">
+
+### ⚡ "Building scalable software with clean architecture, modern technologies, and AI-powered solutions."
+
+</div>
+
+---
+# 🚀 Featured Projects
+
+---
+
+<details open>
+
+<summary><b>📄 ATS Resume Checker v2.0</b></summary>
+
+<br>
+
+> An AI-powered ATS Resume Analysis platform that helps job seekers optimize their resumes against any job description using intelligent keyword analysis and AI-generated recommendations.
+
+### 🌐 Links
+
+| Demo                                            | Repository                                             |
+| ----------------------------------------------- | ------------------------------------------------------ |
+| **https://resume-checker-alpha-two.vercel.app** | **https://github.com/SumanKarmakar467/Resume_Checker** |
+
+### ⚙ Tech Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google"/>
+
+</p>
+
+### ✨ Key Features
+
+* 📄 Upload PDF, DOCX & TXT resumes
+* 🎯 ATS Compatibility Score (0–100)
+* 🔍 Missing Keyword Detection
+* 🤖 AI-powered Resume Improvement Suggestions
+* 📊 Section-wise Resume Analysis
+* ⚡ Fast Resume Processing
+* 🔐 Secure Backend Architecture
+* 🌐 Production Deployment
+
+### 📈 Impact
+
+* Helps candidates optimize resumes before applying.
+* AI-assisted resume enhancement using Gemini.
+* Modern, responsive, recruiter-friendly interface.
+
+---
+
+</details>
+
+---
+
+<details>
+
+<summary><b>🏋️ GymForge – AI Fitness Platform</b></summary>
+
+<br>
+
+> A production-ready MERN fitness platform featuring secure authentication, AI workout generation, progress tracking, and personalized dashboards.
+
+### 🌐 Links
+
+| Demo                                 | Repository                                  |
+| ------------------------------------ | ------------------------------------------- |
+| **https://gym-tan-theta.vercel.app** | **https://github.com/SumanKarmakar467/GYM** |
+
+### ⚙ Tech Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square"/>
+
+</p>
+
+### ✨ Key Features
+
+* 🔐 JWT Authentication
+* 🔄 Access & Refresh Tokens
+* 🤖 AI Workout Generator
+* 📅 Daily To-Do Tracker
+* 📊 Workout Progress Dashboard
+* 🎨 Custom Gym Wallpapers
+* 👤 User Profiles
+* 📱 Fully Responsive Design
+
+### 📈 Impact
+
+* Centralizes fitness tracking in one platform.
+* AI-generated personalized workout routines.
+* Optimized REST APIs with reusable middleware.
+
+---
+
+</details>
+
+---
+
+<details>
+
+<summary><b>🧠 VerifyAI</b></summary>
+
+<br>
+
+> An AI-powered fact-checking platform that analyzes news headlines and content to identify fake news and misinformation using modern AI models.
+
+### 🌐 Links
+
+| Demo                                       | Repository                                       |
+| ------------------------------------------ | ------------------------------------------------ |
+| **https://hakkanshah.github.io/VerifyAI/** | **https://github.com/SumanKarmakar467/VerifyAI** |
+
+### ⚙ Tech Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google"/>
+
+</p>
+
+### ✨ Key Features
+
+* 📰 Fake News Detection
+* 🤖 AI-powered Verification
+* 📑 News Authenticity Reports
+* ⚡ Instant Results
+* 🌍 Simple Responsive Interface
+
+### 📈 Impact
+
+* Demonstrates AI integration in web applications.
+* Helps users identify misinformation quickly.
+
+---
+
+</details>
+
+---
+
+<details>
+
+<summary><b>🌐 Developer Portfolio</b></summary>
+
+<br>
+
+> A premium personal portfolio showcasing projects, skills, certifications, coding profiles, and engineering journey with responsive UI and optimized performance.
+
+### 🌐 Links
+
+| Demo                               | Repository                                        |
+| ---------------------------------- | ------------------------------------------------- |
+| **https://sumankarmakar.is-a.dev** | **https://github.com/SumanKarmakar467/Portfolio** |
+
+### ⚙ Tech Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss"/>
+
+</p>
+
+### ✨ Key Features
+
+* 🌙 Dark / Light Mode
+* 📱 Responsive Design
+* ⚡ Smooth Animations
+* 📊 Interactive Project Showcase
+* 📜 Certifications
+* 📬 Contact Section
+* 🚀 SEO Optimized
+
+### 📈 Lighthouse Performance
+
+| Metric         |   Score |
+| -------------- | ------: |
+| Performance    | **95+** |
+| Accessibility  | **100** |
+| Best Practices | **100** |
+| SEO            | **100** |
+
+---
+
+</details>
+
+---
+
+<div align="center">
+
+### 💡 "Every project is an opportunity to solve real-world problems through clean architecture, scalable systems, and exceptional user experience."
+
+</div>
+
+---
+# 🌟 More Featured Projects
+
+---
+
+<details>
+
+<summary><b>📊 LeetCode Metrics Tracker</b></summary>
+
+<br>
+
+> A modern dashboard that visualizes LeetCode statistics in real time, helping developers monitor progress, consistency, and coding performance.
+
+### 🌐 Links
+
+| Demo                                           | Repository                                                |
+| ---------------------------------------------- | --------------------------------------------------------- |
+| **https://leet-code-metrics-kd4b.vercel.app/** | **https://github.com/SumanKarmakar467/Leet_Code-Metrics** |
+
+### ⚙️ Tech Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel"/>
+
+</p>
+
+### ✨ Features
+
+* 📈 Real-time LeetCode Statistics
+* 🔥 Daily Streak Tracking
+* 📊 Easy / Medium / Hard Distribution
+* ⚡ Fast API Response
+* 📱 Responsive Dashboard
+* 💾 API Caching
+
+### 📈 Impact
+
+* Makes coding progress easy to visualize.
+* Demonstrates REST API consumption and frontend optimization.
+
+---
+
+</details>
+
+---
+
+<details>
+
+<summary><b>🍔 Food Ordering Website</b></summary>
+
+<br>
+
+> A responsive restaurant landing page built with modern UI principles, focusing on smooth user experience, responsive layouts, and attractive design.
+
+### 🌐 Links
+
+| Demo                                               | Repository                                            |
+| -------------------------------------------------- | ----------------------------------------------------- |
+| **https://sumankarmakar-food-project.vercel.app/** | **https://github.com/SumanKarmakar467/MyFoodProject** |
+
+### ⚙️ Tech Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</p>
+
+### ✨ Features
+
+* Responsive Layout
+* Hero Section
+* Customer Testimonials
+* Pricing Section
+* Contact Form
+* Mobile Navigation
+
+---
+
+</details>
+
+---
+
+<details>
+
+<summary><b>🍽 BellaVista Restaurant</b></summary>
+
+<br>
+
+> A premium restaurant website with elegant UI, responsive layouts, modern animations, and interactive user experience.
+
+### 🌐 Links
+
+| Demo                                      | Repository                                                    |
+| ----------------------------------------- | ------------------------------------------------------------- |
+| **https://suman-bella-vista.vercel.app/** | **https://github.com/SumanKarmakar467/BellaVista_Restaurant** |
+
+### ⚙️ Tech Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite"/>
+
+</p>
+
+### ✨ Features
+
+* Premium UI
+* Responsive Design
+* Modern Components
+* Fast Loading
+* Beautiful Landing Page
+
+---
+
+</details>
+
+---
+
+<details>
+
+<summary><b>🎮 Tic Tac Toe Game</b></summary>
+
+<br>
+
+> A fun and responsive Tic Tac Toe game demonstrating JavaScript logic, state management, and interactive UI development.
+
+### 🌐 Links
+
+| Demo                                      | Repository                                               |
+| ----------------------------------------- | -------------------------------------------------------- |
+| **https://suman-tic-tac-toe.vercel.app/** | **https://github.com/SumanKarmakar467/Tic-Tac-Toe-game** |
+
+### ⚙️ Tech Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</p>
+
+### ✨ Features
+
+* Two Player Mode
+* Winner Detection
+* Responsive Design
+* Interactive Animations
+* Clean UI
+
+---
+
+</details>
+
+---
+
+<details>
+
+<summary><b>🧮 Scientific Calculator</b></summary>
+
+<br>
+
+> A responsive scientific calculator supporting arithmetic operations, scientific functions, and keyboard interactions.
+
+### 🌐 Links
+
+| Demo            | Repository                                                    |
+| --------------- | ------------------------------------------------------------- |
+| **Coming Soon** | **https://github.com/SumanKarmakar467/Scientific-Calculator** |
+
+### ⚙️ Tech Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</p>
+
+### ✨ Features
+
+* Scientific Operations
+* Keyboard Support
+* Responsive Layout
+* Modern UI
+
+---
+
+</details>
+
+---
+
+# 💼 Experience
+
+## 🚀 Full Stack MERN Developer
+
+**Self-Driven Projects • Open Source Learning**
+
+**2023 — Present**
+
+Throughout my learning journey, I've focused on building complete, production-ready applications rather than isolated features. Every project has strengthened my understanding of scalable architecture, secure authentication, API design, and responsive frontend development.
+
+### Responsibilities
+
+* 🏗 Built multiple production-ready MERN applications
+* 🔐 Designed secure JWT Authentication systems
+* ⚡ Developed scalable REST APIs
+* 🗄 Designed MongoDB database schemas
+* 🎨 Built reusable React components
+* 🤖 Integrated AI APIs into web applications
+* ☁ Deployed applications on Vercel & Render
+* 🧪 Tested APIs using Postman
+* 📈 Improved application performance through optimization
+* 💻 Solved 250+ DSA problems while strengthening problem-solving skills
+
+---
+
+# 🏆 Career Highlights
+
+<div align="center">
+
+| Achievement                  | Details                                  |
+| ---------------------------- | ---------------------------------------- |
+| 🚀 8+ Projects               | Production-ready Full Stack Applications |
+| 🌐 Multiple Live Deployments | Vercel & Render                          |
+| 🔐 Authentication            | JWT & Secure REST APIs                   |
+| 🤖 AI Integration            | Gemini-powered Applications              |
+| 📊 Dashboard Development     | Real-time Analytics                      |
+| 💻 MERN Stack                | End-to-End Development                   |
+| 📚 Continuous Learning       | Backend Engineering & System Design      |
+| 🧩 DSA Practice              | Active LeetCode Problem Solver           |
+
+</div>
+
+---
+
+# 🎯 What Makes Me Different?
+
+* 🚀 Build complete products instead of tutorial projects.
+* 🧠 Strong focus on backend engineering.
+* ⚡ Passionate about scalable architecture.
+* 🤖 Experienced with AI-powered web applications.
+* 📦 Comfortable deploying production-ready applications.
+* 📖 Constantly learning new technologies.
+* 💜 Believe in writing clean, maintainable, and reusable code.
+
+---
+
+<div align="center">
+
+### ⭐ "Code. Learn. Improve. Repeat."
+
+</div>
+
+---
+# 🏅 Certifications
+
+<div align="center">
+
+| Provider                         | Certification                  |    Status   |
+| -------------------------------- | ------------------------------ | :---------: |
+| 🎓 Euphoria GenX (ISO 9001:2015) | Full Stack Web Development     | ✅ Completed |
+| 🎓 YouAccel                      | HTML, CSS & JavaScript         | ✅ Completed |
+| 🎓 YouAccel                      | JavaScript, Bootstrap & PHP    | ✅ Completed |
+| ☁ AWS                            | Cloud Practitioner             | 🚧 Learning |
+| 🐳 Docker                        | Containerization               | 🚧 Learning |
+| ⚙ GitHub                         | Git & GitHub Advanced Workflow | 🚧 Learning |
+
+</div>
+
+---
+
+# 💻 Coding Profiles
 
 <div align="center">
 
 <a href="https://leetcode.com/u/suman2k04/">
-<img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-Suman2k04-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
+<a href="https://www.geeksforgeeks.org/user/">
+
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
 </a>
 
 <a href="https://www.hackerrank.com/">
+
 <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
 </a>
 
 <a href="https://www.codechef.com/">
+
 <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+
 </a>
 
 </div>
 
+> **💡 Tip:** Replace the GeeksforGeeks, HackerRank, and CodeChef links with your actual profile URLs once you create or share them.
+
 ---
 
-# GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SumanKarmakar467&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SumanKarmakar467&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SumanKarmakar467&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=SumanKarmakar467&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanKarmakar467&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanKarmakar467&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
 ---
 
-# GitHub Trophies
+# 📈 GitHub Profile Summary
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SumanKarmakar467&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SumanKarmakar467&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SumanKarmakar467&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SumanKarmakar467&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumanKarmakar467&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SumanKarmakar467&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# Contribution Activity
+# 🏆 LeetCode Progress
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SumanKarmakar467&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://leetcard.jacoblin.cool/suman2k04?theme=dark&font=Poppins&ext=contest"/>
 
 </div>
 
 ---
 
-# Contribution Snake
+# ⚡ Developer Snapshot
+
+<div align="center">
+
+| Category         | Current Status                       |
+| ---------------- | ------------------------------------ |
+| 💻 Primary Stack | MERN Stack                           |
+| 🧠 Backend       | Node.js + Express.js                 |
+| 🎨 Frontend      | React.js + Tailwind CSS              |
+| 🗄 Database      | MongoDB                              |
+| 🤖 AI            | Gemini API Integration               |
+| ☁ Deployment     | Vercel & Render                      |
+| 📚 Learning      | Docker • AWS • Redis • System Design |
+| 🎯 Goal          | Software Development Engineer (SDE)  |
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Engineering Growth
+
+```text
+Backend Engineering      ████████████████░░░ 90%
+
+React Development        ████████████████░░░ 90%
+
+REST API Design          █████████████████░░ 95%
+
+MongoDB                  ███████████████░░░░ 85%
+
+Authentication           ████████████████░░░ 90%
+
+Problem Solving          ██████████████░░░░░ 80%
+
+System Design            ███████████░░░░░░░░ 65%
+
+Cloud Computing          █████████░░░░░░░░░░ 55%
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 "Consistency beats intensity. Every commit is another step toward mastery."
+
+</div>
+
+---
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SumanKarmakar467&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SumanKarmakar467&theme=react-dark&hide_border=true&area=true&radius=16"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+> **⚠️ Note:** This animation requires the GitHub Action (`snake.yml`) that I'll provide in **Part 8**. Once added, the snake updates automatically every day.
 
 <div align="center">
 
@@ -457,18 +940,15 @@ Designed, developed, and deployed multiple production-ready full-stack applicati
 
 <source
 media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/github-contribution-grid-snake-dark.svg"
-/>
+srcset="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/github-contribution-grid-snake-dark.svg"/>
 
 <source
 media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/github-contribution-grid-snake.svg"
-/>
+srcset="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/github-contribution-grid-snake.svg"/>
 
 <img
-alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/github-contribution-grid-snake-dark.svg"
-/>
+alt="Snake Animation"
+src="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/github-contribution-grid-snake-dark.svg"/>
 
 </picture>
 
@@ -476,96 +956,299 @@ src="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/
 
 ---
 
-# Current Focus
-
-```yaml
-learning:
-  - Advanced Backend Engineering
-  - System Design
-  - TypeScript
-  - Redis
-  - Docker
-  - AWS Cloud
-  - Microservices
-  - Design Patterns
-
-building:
-  - Enterprise MERN Applications
-  - AI-powered Web Applications
-  - Open Source Projects
-  - Developer Productivity Tools
-  - High Performance REST APIs
-
-exploring:
-  - Large Language Models (LLMs)
-  - Retrieval-Augmented Generation (RAG)
-  - AI Agents
-  - Cloud Native Development
-  - Scalable Distributed Systems
-
-open_to:
-  - Software Engineer Roles
-  - Backend Engineer Roles
-  - Full Stack Developer Roles
-  - MERN Stack Opportunities
-  - AI Engineering Projects
-  - Open Source Collaboration
-```
-
----
-
-# Connect With Me
+# 📊 Contribution Calendar
 
 <div align="center">
 
-<a href="mailto:karmakarsuman12138@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-karmakarsuman12138%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<br><br>
-
-<a href="https://linkedin.com/in/suman-karmakar-jerry">
-
-<img src="https://img.shields.io/badge/LinkedIn-Suman_Karmakar-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<br><br>
-
-<a href="https://github.com/SumanKarmakar467">
-
-<img src="https://img.shields.io/badge/GitHub-SumanKarmakar467-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-<br><br>
-
-<a href="https://sumankarmakar.is-a.dev">
-
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-312E81?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-</a>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumanKarmakar467&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# Engineering Philosophy
+# ⚡ Development Activity
 
-> *"Great software isn't just code that works—it's code that scales, performs, remains maintainable, and creates meaningful impact."*
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SumanKarmakar467&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SumanKarmakar467&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SumanKarmakar467&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SumanKarmakar467&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 💻 Development Philosophy
+
+<div align="center">
+
+```text
+                 Think
+                   │
+                   ▼
+          Design Architecture
+                   │
+                   ▼
+        Build Clean Components
+                   │
+                   ▼
+        Develop Secure APIs
+                   │
+                   ▼
+      Test & Optimize Performance
+                   │
+                   ▼
+          Deploy to Production
+                   │
+                   ▼
+      Monitor • Improve • Repeat
+```
+
+</div>
+
+---
+
+# 📅 2026 Development Roadmap
+
+```yaml
+Quarter 3:
+  - Master Advanced Backend Engineering
+  - Complete Docker
+  - Learn Redis
+  - Improve System Design
+
+Quarter 4:
+  - AWS Cloud Practitioner
+  - Build SaaS Project
+  - Contribute to Open Source
+  - 500+ LeetCode Problems
+
+Long Term:
+  - Software Development Engineer
+  - Backend Specialist
+  - AI Product Engineer
+```
+
+---
+
+# 🔥 Currently Building
+
+<div align="center">
+
+| 🚀 Project                 | Status       |
+| -------------------------- | ------------ |
+| AI Resume Checker          | 🟢 Active    |
+| MERN SaaS Applications     | 🟢 Active    |
+| AI-powered Developer Tools | 🟢 Active    |
+| Backend Engineering Skills | 🟢 Improving |
+| System Design Knowledge    | 🟢 Learning  |
+| Open Source Contributions  | 🟢 Ongoing   |
+
+</div>
+
+---
+
+# 🌟 Fun Facts
+
+<div align="center">
+
+| 💡                     |                                 |
+| ---------------------- | ------------------------------- |
+| ☕ Favorite Stack       | MERN                            |
+| 🤖 Favorite Topic      | AI + Web Development            |
+| 💻 Preferred Editor    | VS Code                         |
+| 🔥 Favorite Language   | JavaScript                      |
+| 🗄 Favorite Database   | MongoDB                         |
+| 🚀 Favorite Deployment | Vercel                          |
+| 🎯 Goal                | Build products used by millions |
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile!
+## 💜 *"Code with purpose. Learn with curiosity. Build with passion."*
 
-**Let's build something impactful together.**
+</div>
 
-<br>
+---
+# 🤝 Let's Connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:312E81,25:4338CA,50:6D28D9,75:7C3AED,100:8B5CF6"/>
+<div align="center">
+
+<p>
+<a href="mailto:karmakarsuman12138@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-karmakarsuman12138%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/suman-karmakar-jerry">
+<img src="https://img.shields.io/badge/LinkedIn-Suman%20Karmakar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SumanKarmakar467">
+<img src="https://img.shields.io/badge/GitHub-SumanKarmakar467-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://sumankarmakar.is-a.dev">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+</div>
+
+---
+
+# 💼 Available For
+
+<div align="center">
+
+| Role                        | Status |
+| --------------------------- | :----: |
+| 💻 Software Engineer        | ✅ Open |
+| 🚀 Full Stack Developer     | ✅ Open |
+| ⚙ Backend Developer         | ✅ Open |
+| 🌐 MERN Stack Developer     | ✅ Open |
+| 🤖 AI Application Developer | ✅ Open |
+| 📦 Open Source Contributor  | ✅ Open |
+| 🎓 Internship Opportunities | ✅ Open |
+| 💼 Full-Time Opportunities  | ✅ Open |
+
+</div>
+
+---
+
+# 🌍 Let's Build Together
+
+I enjoy collaborating on projects that involve:
+
+* 🚀 Scalable Full Stack Applications
+* 🤖 AI-powered Web Applications
+* ⚙ Backend Engineering
+* 📦 REST API Development
+* 🔐 Authentication & Authorization
+* ☁ Cloud Deployment
+* 📊 Dashboard Applications
+* 🌐 Open Source Projects
+* 💡 SaaS Products
+* 📱 Responsive Web Applications
+
+---
+
+# ❤️ Open Source
+
+```text
+Open Source is one of the best ways to learn.
+
+I believe every contribution,
+whether it's fixing a typo,
+improving documentation,
+or building a new feature,
+helps the entire developer community.
+
+I'm always excited to collaborate
+on meaningful projects.
+```
+
+---
+
+# 🧠 Current Learning
+
+<div align="center">
+
+| 📚 Learning      | Progress                 |
+| ---------------- | ------------------------ |
+| Advanced Node.js | ██████████████████░░ 90% |
+| Express.js       | ███████████████████░ 95% |
+| MongoDB          | █████████████████░░░ 90% |
+| React.js         | ███████████████████░ 95% |
+| TypeScript       | ██████████████░░░░░░ 75% |
+| Docker           | ███████████░░░░░░░░░ 60% |
+| Redis            | █████████░░░░░░░░░░░ 50% |
+| AWS              | ████████░░░░░░░░░░░░ 45% |
+| System Design    | ██████████░░░░░░░░░░ 55% |
+
+</div>
+
+---
+
+# 📈 My Development Journey
+
+```text
+2022
+│
+├── Started B.Tech (CSE)
+│
+2023
+│
+├── HTML
+├── CSS
+├── JavaScript
+├── Git & GitHub
+│
+2024
+│
+├── React.js
+├── Node.js
+├── Express.js
+├── MongoDB
+├── REST APIs
+│
+2025
+│
+├── JWT Authentication
+├── Full Stack MERN
+├── AI Integration
+├── Production Deployment
+│
+2026
+│
+├── System Design
+├── Docker
+├── Redis
+├── AWS
+└── Software Engineer 🚀
+```
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+> **"Success isn't measured by the number of projects you build, but by the number of problems you solve."**
+
+</div>
+
+---
+
+# ☕ Thanks for Visiting
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a ⭐ to my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0F172A,20:312E81,40:4338CA,60:6D28D9,80:7C3AED,100:8B5CF6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Keep Learning • Keep Building • Keep Growing
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1200&center=true&vCenter=true&width=700&color=8B5CF6&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!;Let's+Build+Something+Amazing+Together!"/>
 
 </div>
