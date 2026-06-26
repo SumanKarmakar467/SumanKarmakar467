@@ -3,7 +3,6 @@ name: GitHub Metrics
 on:
   schedule:
     - cron: "0 */12 * * *"
-
   workflow_dispatch:
 
 permissions:
@@ -16,11 +15,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
-
           token: ${{ secrets.METRICS_TOKEN }}
 
           user: SumanKarmakar467
+          filename: github-metrics.svg
 
           template: classic
           base: header, activity, community, repositories, metadata
@@ -29,19 +27,12 @@ jobs:
 
           plugin_languages: yes
           plugin_languages_limit: 8
-          plugin_languages_analysis: bytes-size
           plugin_languages_categories: programming
 
           plugin_isocalendar: yes
-
           plugin_stars: yes
-
           plugin_achievements: yes
-
           plugin_followup: yes
-
           plugin_topics: yes
-
           plugin_repositories: yes
-
           plugin_lines: yes
