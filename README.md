@@ -89,14 +89,17 @@
 # 🚀 Featured Projects
 
 <table>
-
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h3 align="center">🏋️ GymForge</h3>
+<a href="https://gym-tan-theta.vercel.app">
+<img src="assets/projects/gymforge.png" width="100%" alt="GymForge"/>
+</a>
 
-<p align="center">
+### 🏋️ GymForge
+
+<p>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
@@ -105,64 +108,48 @@
 
 </p>
 
-<p align="center">
+AI-powered fitness platform with personalized workout generation, JWT authentication, progress tracking, todo planner and AI wallpaper generator.
 
-AI-powered fitness companion with JWT authentication, personalized workout generation, progress tracking, daily todo planner and gym wallpaper generator.
-
-</p>
-
-<p align="center">
+<br><br>
 
 <a href="https://gym-tan-theta.vercel.app">
-
-<img src="https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-0A66C2?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/SumanKarmakar467/GYM">
-
-<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github"/>
 </a>
-
-</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h3 align="center">🧠 Resume Checker AI</h3>
+<a href="https://resume-checker-alpha-two.vercel.app">
+<img src="assets/projects/resume-checker.png" width="100%" alt="Resume Checker"/>
+</a>
 
-<p align="center">
+### 🧠 Resume Checker AI
+
+<p>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square"/>
 
 </p>
 
-<p align="center">
+ATS Resume Analyzer with AI-powered suggestions, keyword matching, resume scoring and section analysis.
 
-ATS Resume Analyzer with AI suggestions, keyword matching, section analysis and resume score generation.
-
-</p>
-
-<p align="center">
+<br><br>
 
 <a href="https://resume-checker-alpha-two.vercel.app">
-
-<img src="https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-0A66C2?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/SumanKarmakar467/Resume_Checker">
-
-<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github"/>
 </a>
-
-</p>
 
 </td>
 
@@ -170,11 +157,15 @@ ATS Resume Analyzer with AI suggestions, keyword matching, section analysis and 
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h3 align="center">🔍 VerifyAI</h3>
+<a href="https://hakkanshah.github.io/VerifyAI/">
+<img src="assets/projects/verifyai.png" width="100%" alt="VerifyAI"/>
+</a>
 
-<p align="center">
+### 🔍 VerifyAI
+
+<p>
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3"/>
@@ -183,35 +174,29 @@ ATS Resume Analyzer with AI suggestions, keyword matching, section analysis and 
 
 </p>
 
-<p align="center">
+AI-powered fake news detection platform that verifies headlines and articles using Gemini AI.
 
-AI-powered fake news and misinformation detector using Gemini AI for content verification.
-
-</p>
-
-<p align="center">
+<br><br>
 
 <a href="https://hakkanshah.github.io/VerifyAI/">
-
-<img src="https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-0A66C2?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/SumanKarmakar467/VerifyAI">
-
-<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github"/>
 </a>
-
-</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h3 align="center">🌐 Portfolio Website</h3>
+<a href="https://suman-karmakar.vercel.app">
+<img src="assets/projects/portfolio.png" width="100%" alt="Portfolio"/>
+</a>
 
-<p align="center">
+### 🌐 Portfolio Website
+
+<p>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite"/>
@@ -219,27 +204,17 @@ AI-powered fake news and misinformation detector using Gemini AI for content ver
 
 </p>
 
-<p align="center">
+Modern developer portfolio showcasing projects, skills, certifications and achievements with responsive UI.
 
-Personal developer portfolio featuring projects, skills, certifications, achievements and responsive UI.
-
-</p>
-
-<p align="center">
+<br><br>
 
 <a href="https://suman-karmakar.vercel.app">
-
-<img src="https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-0A66C2?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/SumanKarmakar467/Portfolio">
-
-<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github"/>
 </a>
-
-</p>
 
 </td>
 
