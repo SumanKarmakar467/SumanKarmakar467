@@ -129,6 +129,38 @@
 </p>
 
 ---
+---
+
+### 📈 GitHub Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" width="100%"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake"
+      src="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+### 💻 LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/suman2k04?theme=dark&font=Karma&ext=contest"/>
+</p>
+
+---
 
 ### 🔥 GitHub Activity Graph
 
@@ -136,6 +168,29 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SumanKarmakar467&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</p>
+
+---
+
+### 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SumanKarmakar467&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+### 📜 Certifications
+
+- 🏅 Java Programming
+- 🏅 MERN Stack Development
+- 🏅 MongoDB
+- 🏅 React.js
+- 🏅 Node.js
+- 🏅 REST APIs
 
 ### 🌐 Connect with Me
 
