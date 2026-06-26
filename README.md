@@ -646,3 +646,81 @@ MongoDB
 </table>
 
 ---
+
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SumanKarmakar467&theme=tokyo-night&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+# 🏆 Community & Profile
+
+<table>
+
+<tr>
+
+<td width="70%" align="center">
+
+## 🏅 GitHub Achievements
+
+> **Note:** If `github-profile-trophy.vercel.app` is temporarily unavailable, this section may not display. You can keep it or replace it later.
+
+<img src="https://github-profile-trophy.vercel.app/?username=SumanKarmakar467&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</td>
+
+<td width="30%" align="center">
+
+## 👀 Visitors
+
+<img src="https://komarev.com/ghpvc/?username=SumanKarmakar467&label=Profile+Views&color=0891b2&style=for-the-badge"/>
+
+<br><br>
+
+## ⭐ Followers
+
+<img src="https://img.shields.io/github/followers/SumanKarmakar467?style=for-the-badge&logo=github"/>
+
+<br><br>
+
+## 🍴 Repositories
+
+<img src="https://img.shields.io/badge/Public%20Repos-View%20Profile-blue?style=for-the-badge&logo=github"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌟 Developer Philosophy
+
+<div align="center">
+
+> **"Code is not just about solving problems. It's about creating experiences, learning continuously, and building solutions that make a difference."**
+
+</div>
+
+---
+
+# 📌 Current Focus
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🚀_Building-AI_Applications-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/📚_Learning-System_Design-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/☁️_Exploring-Cloud_&_DevOps-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/💼_Open_to-SDE_Roles-purple?style=for-the-badge"/>
+
+</p>
+
+---
