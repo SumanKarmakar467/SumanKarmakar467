@@ -492,3 +492,157 @@ Actively improving personal and collaborative projects.
 </table>
 
 ---
+
+# 🐍 Coding Journey
+
+<table>
+
+<tr>
+
+<td width="58%" valign="top">
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/github-contribution-grid-snake-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/github-contribution-grid-snake.svg"/>
+
+<img
+alt="Snake Animation"
+src="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/github-contribution-grid-snake.svg"/>
+
+</picture>
+
+</p>
+
+</td>
+
+<td width="42%" valign="top">
+
+<h2 align="center">💻 LeetCode</h2>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/suman2k04/">
+
+<img
+src="https://leetcard.jacoblin.cool/suman2k04?theme=dark&font=Poppins&ext=contest"
+width="100%"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 🎯 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/suman2k04/">
+
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/>
+
+</a>
+
+<a href="https://github.com/SumanKarmakar467">
+
+<img src="https://img.shields.io/badge/GitHub-Open%20Source-black?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://www.hackerrank.com/">
+
+<img src="https://img.shields.io/badge/HackerRank-Coming%20Soon-success?style=for-the-badge&logo=hackerrank"/>
+
+</a>
+
+<a href="https://codeforces.com/">
+
+<img src="https://img.shields.io/badge/Codeforces-Coming%20Soon-blue?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+## 🧠 What I Practice
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+### 💡 DSA
+
+Arrays
+
+Strings
+
+HashMap
+
+Linked List
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡ Algorithms
+
+Binary Search
+
+Sliding Window
+
+Recursion
+
+Dynamic Programming
+
+</td>
+
+<td align="center" width="25%">
+
+### ☕ Java
+
+Collections
+
+Streams
+
+OOP
+
+Multithreading
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀 Development
+
+React
+
+Node.js
+
+Express
+
+MongoDB
+
+</td>
+
+</tr>
+
+</table>
+
+---
