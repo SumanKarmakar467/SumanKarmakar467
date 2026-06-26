@@ -345,19 +345,7 @@ Actively improving personal and collaborative projects.
 
 <p align="center">
 
-<!-- <picture>
 
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/github-contribution-grid-snake-dark.svg"/>
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/github-contribution-grid-snake.svg"/>
-
-<img
-alt="Snake Animation"
-src="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/github-contribution-grid-snake.svg"/>
-
-</picture> -->
 
 <img
 src="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/github-contribution-grid-snake-dark.svg"
