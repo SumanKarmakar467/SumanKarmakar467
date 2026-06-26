@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Suman%20Karmakar&fontSize=52&fontColor=00f5ff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Open%20to%20SDE%20Roles&descAlignY=58&descSize=18&descColor=ffffff&stroke=00f5ff&strokeWidth=2" />
 </div>
 
@@ -213,4 +213,29 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-</div>
+</div> -->
+
+<table>
+<tr>
+
+<td width="38%" valign="top">
+
+## 👋 About Me
+
+- 🎓 B.Tech CSE Student
+- 💻 MERN Stack Developer
+- 🤖 AI Builder
+- 🌱 Learning DevOps
+- ☁️ Cloud Enthusiast
+- 📍 Kolkata, India
+
+</td>
+
+<td width="62%" valign="top">
+
+<img src="./github-metrics.svg" width="100%"/>
+
+</td>
+
+</tr>
+</table>
