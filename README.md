@@ -296,3 +296,96 @@
   </tr>
 </table>
 
+<p align="center">
+
+<img width="32%"
+src="https://github-readme-streak-stats.herokuapp.com?..."/>
+
+<img width="32%"
+src="https://github-readme-stats.vercel.app/api?..."/>
+
+<img width="32%"
+src="https://github-readme-stats.vercel.app/api/top-langs?..."/>
+
+</p>
+
+<table>
+
+<tr>
+
+<td width="55%" valign="top">
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<img
+src="./output/github-contribution-grid-snake-dark.svg"
+width="100%"/>
+
+</td>
+
+<td width="45%" valign="top">
+
+<h2 align="center">💻 LeetCode</h2>
+
+<img
+src="https://leetcard.jacoblin.cool/suman2k04?theme=dark"
+width="100%"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<p align="center">
+
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=SumanKarmakar467&theme=react-dark&hide_border=true"/>
+
+</p>
+
+<table>
+
+<tr>
+
+<td width="75%">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=SumanKarmakar467&theme=algolia&no-frame=true"/>
+
+</td>
+
+<td width="25%" align="center">
+
+<img
+src="https://komarev.com/ghpvc/?username=SumanKarmakar467"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/MERN-4CAF50?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge">
+
+</p>
+
+<p align="center">
+
+LinkedIn
+
+Gmail
+
+GitHub
+
+Portfolio
+
+</p>
