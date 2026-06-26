@@ -547,7 +547,7 @@ width="100%"/>
 
 ---
 
-## 🎯 Coding Profiles
+<!-- ## 🎯 Coding Profiles
 
 <p align="center">
 
@@ -643,7 +643,7 @@ MongoDB
 
 </tr>
 
-</table>
+</table> -->
 
 ---
 
