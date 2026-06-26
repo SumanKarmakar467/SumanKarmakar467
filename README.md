@@ -408,3 +408,87 @@ Personal developer portfolio featuring projects, skills, certifications, achieve
 </table>
 
 ---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="32%" src="https://github-readme-streak-stats.herokuapp.com?user=SumanKarmakar467&theme=tokyonight&hide_border=true"/>
+
+<img width="32%" src="https://github-readme-stats.vercel.app/api?username=SumanKarmakar467&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanKarmakar467&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 GitHub Metrics
+
+<p align="center">
+
+<img src="./github-metrics.svg" width="100%"/>
+
+</p>
+
+---
+
+## 📊 Developer Snapshot
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Specialization-MERN-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Gemini%20Integration-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Currently-Learning%20DevOps-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📌 GitHub Highlights
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+### 🔥 Consistency
+
+Daily coding and continuous contributions.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀 Projects
+
+Building scalable MERN & AI applications.
+
+</td>
+
+<td align="center" width="25%">
+
+### 💡 Learning
+
+Exploring DevOps, Cloud & System Design.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌍 Open Source
+
+Actively improving personal and collaborative projects.
+
+</td>
+
+</tr>
+
+</table>
+
+---
