@@ -263,7 +263,7 @@ Personal developer portfolio featuring projects, skills, certifications, achieve
 
 ---
 
-# 📈 GitHub Metrics
+<!-- # 📈 GitHub Metrics
 
 <p align="center">
 
@@ -271,7 +271,7 @@ Personal developer portfolio featuring projects, skills, certifications, achieve
 
 </p>
 
----
+--- -->
 
 ## 📊 Developer Snapshot
 
