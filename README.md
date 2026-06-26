@@ -239,3 +239,60 @@
 
 </tr>
 </table>
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏋️ GymForge</h3>
+      <p>Full-stack fitness companion app with JWT auth, AI-generated personalized workout plans, daily todo tracking, progress stats, and a custom gym wallpaper generator.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white"/>
+      </p>
+      <a href="https://gym-tan-theta.vercel.app">🔗 Live Demo</a> &nbsp;|&nbsp;
+      <a href="https://github.com/SumanKarmakar467/GYM">📂 Source Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Resume Checker v2.0</h3>
+      <p>AI-powered ATS resume analysis platform. Upload your resume, get a 0–100 ATS score, keyword match highlights, section-wise breakdown, and Gemini AI rewrite suggestions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white"/>
+      </p>
+      <a href="https://resume-checker-alpha-two.vercel.app">🔗 Live Demo</a> &nbsp;|&nbsp;
+      <a href="https://github.com/SumanKarmakar467/Resume_Checker">📂 Source Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 VerifyAI</h3>
+      <p>AI-powered fake news and deepfake detection tool. Instantly verify the authenticity of headlines, articles, and media content with real-time AI analysis.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white"/>
+      </p>
+      <a href="https://hakkanshah.github.io/VerifyAI/">🔗 Live Demo</a> &nbsp;|&nbsp;
+      <a href="https://github.com/SumanKarmakar467/VerifyAI">📂 Source Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Developer Portfolio</h3>
+      <p>Personal portfolio website showcasing projects, skills, education timeline, certifications, and contact. Features light/dark mode and smooth UI interactions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      </p>
+      <a href="https://suman-karmakar.vercel.app">🔗 Live Demo</a> &nbsp;|&nbsp;
+      <a href="https://github.com/SumanKarmakar467/Portfolio">📂 Source Code</a>
+    </td>
+  </tr>
+</table>
+
