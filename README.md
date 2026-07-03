@@ -37,13 +37,13 @@
 
 ---
 
+# 👋 About Me
+
 <table>
 
 <tr>
 
-<td width="38%" valign="top">
-
-# 👋 About Me
+<td width="42%" valign="top">
 
 ### 💻 Software Developer
 
@@ -61,7 +61,7 @@
 
 📍 Kolkata, India
 
----
+<br>
 
 ## ⚡ Quick Facts
 
@@ -71,19 +71,31 @@
 - 🏆 Open to Software Engineer roles
 - ⚡ Always learning something new
 
+<br>
+
+## 🛠️ Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,spring,js,ts,html,css,tailwind,git,github,vscode,figma,postman&theme=dark" alt="Tech Stack"/>
+
+</p>
+
 </td>
 
-<td width="62%" valign="top">
+<td width="58%" valign="top" align="center">
 
-<img src="./github-metrics.svg" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SumanKarmakar467&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SumanKarmakar467&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph"/>
 
 </td>
 
 </tr>
 
 </table>
-
----
 
 ---
 
@@ -99,25 +111,27 @@
 <img src="assets/projects/gymforge.png" width="100%" alt="GymForge"/>
 </a>
 
-### 🏋️ GymForge
+<h3>🏋️ GymForge</h3>
+
+<a href="https://github.com/SumanKarmakar467/GYM"><img src="https://img.shields.io/github/stars/SumanKarmakar467/GYM?style=flat-square&color=yellow&logo=github"/></a>
+<a href="https://github.com/SumanKarmakar467/GYM"><img src="https://img.shields.io/github/last-commit/SumanKarmakar467/GYM?style=flat-square&color=blue"/></a>
 
 <p>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
 </p>
 
 AI-powered fitness platform with personalized workout generation, JWT authentication, progress tracking, todo planner and AI wallpaper generator.
 
-<br><br>
+<br>
 
 <a href="https://gym-tan-theta.vercel.app">
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-0A66C2?style=for-the-badge"/>
 </a>
-
 <a href="https://github.com/SumanKarmakar467/GYM">
 <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -130,25 +144,27 @@ AI-powered fitness platform with personalized workout generation, JWT authentica
 <img src="assets/projects/resume-checker.png" width="100%" alt="Resume Checker"/>
 </a>
 
-### 🧠 Resume Checker AI
+<h3>🧠 Resume Checker AI</h3>
+
+<a href="https://github.com/SumanKarmakar467/Resume_Checker"><img src="https://img.shields.io/github/stars/SumanKarmakar467/Resume_Checker?style=flat-square&color=yellow&logo=github"/></a>
+<a href="https://github.com/SumanKarmakar467/Resume_Checker"><img src="https://img.shields.io/github/last-commit/SumanKarmakar467/Resume_Checker?style=flat-square&color=blue"/></a>
 
 <p>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square"/>
 
 </p>
 
 ATS Resume Analyzer with AI-powered suggestions, keyword matching, resume scoring and section analysis.
 
-<br><br>
+<br>
 
 <a href="https://resume-checker-alpha-two.vercel.app">
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-0A66C2?style=for-the-badge"/>
 </a>
-
 <a href="https://github.com/SumanKarmakar467/Resume_Checker">
 <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -165,25 +181,27 @@ ATS Resume Analyzer with AI-powered suggestions, keyword matching, resume scorin
 <img src="assets/projects/verifyai.png" width="100%" alt="VerifyAI"/>
 </a>
 
-### 🔍 VerifyAI
+<h3>🔍 VerifyAI</h3>
+
+<a href="https://github.com/SumanKarmakar467/VerifyAI"><img src="https://img.shields.io/github/stars/SumanKarmakar467/VerifyAI?style=flat-square&color=yellow&logo=github"/></a>
+<a href="https://github.com/SumanKarmakar467/VerifyAI"><img src="https://img.shields.io/github/last-commit/SumanKarmakar467/VerifyAI?style=flat-square&color=blue"/></a>
 
 <p>
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square"/>
 
 </p>
 
 AI-powered fake news detection platform that verifies headlines and articles using Gemini AI.
 
-<br><br>
+<br>
 
 <a href="https://hakkanshah.github.io/VerifyAI/">
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-0A66C2?style=for-the-badge"/>
 </a>
-
 <a href="https://github.com/SumanKarmakar467/VerifyAI">
 <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -196,24 +214,26 @@ AI-powered fake news detection platform that verifies headlines and articles usi
 <img src="assets/projects/portfolio.png" width="100%" alt="Portfolio"/>
 </a>
 
-### 🌐 Portfolio Website
+<h3>🌐 Portfolio Website</h3>
+
+<a href="https://github.com/SumanKarmakar467/Portfolio"><img src="https://img.shields.io/github/stars/SumanKarmakar467/Portfolio?style=flat-square&color=yellow&logo=github"/></a>
+<a href="https://github.com/SumanKarmakar467/Portfolio"><img src="https://img.shields.io/github/last-commit/SumanKarmakar467/Portfolio?style=flat-square&color=blue"/></a>
 
 <p>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
 </p>
 
 Modern developer portfolio showcasing projects, skills, certifications and achievements with responsive UI.
 
-<br><br>
+<br>
 
 <a href="https://suman-karmakar.vercel.app">
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-0A66C2?style=for-the-badge"/>
 </a>
-
 <a href="https://github.com/SumanKarmakar467/Portfolio">
 <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -230,11 +250,9 @@ Modern developer portfolio showcasing projects, skills, certifications and achie
 
 <p align="center">
 
-<img width="32%" src="https://github-readme-streak-stats.herokuapp.com?user=SumanKarmakar467&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=SumanKarmakar467&theme=tokyonight&hide_border=true"/>
 
-<img width="32%" src="https://github-readme-stats.vercel.app/api?username=SumanKarmakar467&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanKarmakar467&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanKarmakar467&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -245,16 +263,6 @@ Modern developer portfolio showcasing projects, skills, certifications and achie
 </p>
 
 ---
-
-<!-- # 📈 GitHub Metrics
-
-<p align="center">
-
-<img src="./github-metrics.svg" width="100%"/>
-
-</p>
-
---- -->
 
 ## 📊 Developer Snapshot
 
@@ -362,24 +370,6 @@ width="100%"/>
 </tr>
 
 </table>
-
----
-
-
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SumanKarmakar467&theme=tokyo-night&hide_border=true&area=true"/>
-
-</p>
-
----
-
-
 
 ---
 
