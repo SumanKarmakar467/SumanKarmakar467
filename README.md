@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20,24,30&text=Suman%20Karmakar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20AI%20Builder%20|%20Open%20to%20Software%20Engineer%20Roles&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Full+Stack+MERN+Developer;AI+Application+Builder;Java+%7C+Spring+Boot+Developer;Open+Source+Contributor;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Full+Stack+MERN+Developer;AI+Application+Builder;DSA+with+Java;Open+Source+Contributor;Always+Learning+New+Technologies"/>
 
 <p align="center">
 
@@ -55,7 +55,7 @@
 
 ⚡ MERN Stack Developer
 
-☕ Java & Spring Boot Enthusiast
+☕ DSA with Java
 
 🚀 Passionate about building scalable applications
 
@@ -77,7 +77,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,spring,js,ts,html,css,tailwind,git,github,vscode,figma,postman&theme=dark" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,js,ts,html,css,tailwind,git,github,vscode,figma,postman&theme=dark" alt="Tech Stack"/>
 
 </p>
 
@@ -85,7 +85,7 @@
 
 <td width="58%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SumanKarmakar467&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=SumanKarmakar467&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats"/>
 
 <br>
 
@@ -252,13 +252,13 @@ Modern developer portfolio showcasing projects, skills, certifications and achie
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=SumanKarmakar467&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanKarmakar467&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=SumanKarmakar467&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SumanKarmakar467&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=SumanKarmakar467&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies"/>
 
 </p>
 
