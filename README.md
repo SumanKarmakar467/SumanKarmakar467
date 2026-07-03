@@ -31,6 +31,8 @@
 
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=SumanKarmakar467&label=Profile%20Views&color=00f7ff&style=for-the-badge" alt="Profile Views"/>
+
 </div>
 
 ---
@@ -236,6 +238,12 @@ Modern developer portfolio showcasing projects, skills, certifications and achie
 
 </p>
 
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SumanKarmakar467&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies"/>
+
+</p>
+
 ---
 
 <!-- # 📈 GitHub Metrics
@@ -320,12 +328,14 @@ Actively improving personal and collaborative projects.
 
 <p align="center">
 
-
-
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/github-contribution-grid-snake.svg">
 <img
 src="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/github-contribution-grid-snake-dark.svg"
 width="100%"
 alt="Snake Animation"/>
+</picture>
 
 </p>
 
