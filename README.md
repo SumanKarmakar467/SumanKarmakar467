@@ -407,57 +407,49 @@ width="100%"/>
 
 <td align="center" width="25%">
 
+<a href="https://sumankarmakar.is-a.dev/#certifications">
+<img src="assets/certificates/fullstack-webdev.png" width="100%" alt="Full Stack Web Development Certificate"/>
+</a>
+
 ### 🏆 Full Stack Web Development
 
 <img src="https://img.shields.io/badge/Euphoria%20GenX-Verified-success?style=flat-square"/>
 
-<br><br>
-
-<a href="https://sumankarmakar.is-a.dev/#certifications">
-<img src="https://img.shields.io/badge/📜%20View%20Certificate-8A2BE2?style=for-the-badge"/>
-</a>
-
 </td>
 
 <td align="center" width="25%">
+
+<a href="https://sumankarmakar.is-a.dev/#certifications">
+<img src="assets/certificates/js-bootstrap-php.png" width="100%" alt="JavaScript, Bootstrap, PHP Certificate"/>
+</a>
 
 ### 💻 JavaScript, Bootstrap & PHP
 
 <img src="https://img.shields.io/badge/YouAccel-Verified-success?style=flat-square"/>
 
-<br><br>
-
-<a href="https://sumankarmakar.is-a.dev/#certifications">
-<img src="https://img.shields.io/badge/📜%20View%20Certificate-8A2BE2?style=for-the-badge"/>
-</a>
-
 </td>
 
 <td align="center" width="25%">
+
+<a href="https://sumankarmakar.is-a.dev/#certifications">
+<img src="assets/certificates/html-css-js.png" width="100%" alt="HTML, CSS, JS Certificate"/>
+</a>
 
 ### 🌐 HTML, CSS & JavaScript
 
 <img src="https://img.shields.io/badge/YouAccel-Verified-success?style=flat-square"/>
 
-<br><br>
-
-<a href="https://sumankarmakar.is-a.dev/#certifications">
-<img src="https://img.shields.io/badge/📜%20View%20Certificate-8A2BE2?style=for-the-badge"/>
-</a>
-
 </td>
 
 <td align="center" width="25%">
 
+<a href="https://sumankarmakar.is-a.dev/#certifications">
+<img src="assets/certificates/google-aiml-techcamp.png" width="100%" alt="Google AI-ML Tech Camp Certificate"/>
+</a>
+
 ### 🤖 Google AI-ML Tech Camp
 
 <img src="https://img.shields.io/badge/EduSkills-Verified-success?style=flat-square"/>
-
-<br><br>
-
-<a href="https://sumankarmakar.is-a.dev/#certifications">
-<img src="https://img.shields.io/badge/📜%20View%20Certificate-8A2BE2?style=for-the-badge"/>
-</a>
 
 </td>
 
