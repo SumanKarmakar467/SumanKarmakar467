@@ -401,21 +401,69 @@ width="100%"/>
 
 # 📜 Certifications
 
-<p align="center">
+<table>
 
-<img src="https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=openjdk"/>
+<tr>
 
-<img src="https://img.shields.io/badge/MERN-Full%20Stack-success?style=for-the-badge&logo=mongodb"/>
+<td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/MongoDB-Database-green?style=for-the-badge&logo=mongodb"/>
+### 🏆 Full Stack Web Development
 
-<img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Euphoria%20GenX-Verified-success?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/REST-API-blue?style=for-the-badge"/>
+<a href="https://sumankarmakar.is-a.dev/#certifications">
+<img src="https://img.shields.io/badge/📜%20View%20Certificate-8A2BE2?style=for-the-badge"/>
+</a>
 
-</p>
+</td>
+
+<td align="center" width="25%">
+
+### 💻 JavaScript, Bootstrap & PHP
+
+<img src="https://img.shields.io/badge/YouAccel-Verified-success?style=flat-square"/>
+
+<br><br>
+
+<a href="https://sumankarmakar.is-a.dev/#certifications">
+<img src="https://img.shields.io/badge/📜%20View%20Certificate-8A2BE2?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐 HTML, CSS & JavaScript
+
+<img src="https://img.shields.io/badge/YouAccel-Verified-success?style=flat-square"/>
+
+<br><br>
+
+<a href="https://sumankarmakar.is-a.dev/#certifications">
+<img src="https://img.shields.io/badge/📜%20View%20Certificate-8A2BE2?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖 Google AI-ML Tech Camp
+
+<img src="https://img.shields.io/badge/EduSkills-Verified-success?style=flat-square"/>
+
+<br><br>
+
+<a href="https://sumankarmakar.is-a.dev/#certifications">
+<img src="https://img.shields.io/badge/📜%20View%20Certificate-8A2BE2?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
