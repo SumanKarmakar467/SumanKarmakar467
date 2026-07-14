@@ -246,7 +246,7 @@ Modern developer portfolio showcasing projects, skills, certifications and achie
 
 ---
 
-# 📊 GitHub Analytics
+<!-- # 📊 GitHub Analytics
 
 <p align="center">
 
@@ -260,7 +260,7 @@ Modern developer portfolio showcasing projects, skills, certifications and achie
 
 <img src="https://github-trophies.vercel.app/?username=SumanKarmakar467&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies"/>
 
-</p>
+</p> -->
 
 ---
 
