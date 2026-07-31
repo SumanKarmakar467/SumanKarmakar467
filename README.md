@@ -408,6 +408,19 @@ width="100%"/>
 <td align="center" width="25%">
 
 <a href="https://sumankarmakar.is-a.dev/#certifications">
+<img src="assets/certificates/mern-stack/.png" width="100%" alt="MERN Stack Certificate"/>
+</a>
+
+### 🏆 Full Stack Web Development
+
+<img src="https://img.shields.io/badge/Euphoria%20GenX-Verified-success?style=flat-square"/>
+
+</td>
+
+
+<td align="center" width="25%">
+
+<a href="https://sumankarmakar.is-a.dev/#certifications">
 <img src="assets/certificates/fullstack-webdev.png" width="100%" alt="Full Stack Web Development Certificate"/>
 </a>
 
