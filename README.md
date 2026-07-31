@@ -410,7 +410,7 @@ width="100%"/>
 <td align="center" width="20%">
 
 <a href="https://sumankarmakar.is-a.dev/#certifications">
-<img src="assets/certificates/fullstack-webdev.png" width="170" height="220"/>
+<img src="assets/certificates/mern-stack.png" width="170" height="220"/>
 </a>
 
 <br><br>
@@ -419,7 +419,7 @@ width="100%"/>
 
 <br>
 
-<sub>Euphoria GenX</sub>
+<sub>TUTEDUDE</sub>
 
 <br><br>
 
