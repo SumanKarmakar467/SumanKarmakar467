@@ -401,74 +401,117 @@ width="100%"/>
 
 # 📜 Certifications
 
+<div align="center">
+
 <table>
 
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 <a href="https://sumankarmakar.is-a.dev/#certifications">
-<img src="assets/certificates/mern-stack/.png" width="100%" alt="MERN Stack Certificate"/>
+<img src="assets/certificates/fullstack-webdev.png" width="170" height="220"/>
 </a>
 
-### 🏆 Full Stack Web Development
+<br><br>
 
-<img src="https://img.shields.io/badge/Euphoria%20GenX-Verified-success?style=flat-square"/>
+<b>🏆 MERN Stack Development</b>
+
+<br>
+
+<sub>Euphoria GenX</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Verified-32CD32?style=for-the-badge"/>
 
 </td>
 
-
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 <a href="https://sumankarmakar.is-a.dev/#certifications">
-<img src="assets/certificates/fullstack-webdev.png" width="100%" alt="Full Stack Web Development Certificate"/>
+<img src="assets/certificates/fullstack-webdev.png" width="170" height="220"/>
 </a>
 
-### 🏆 Full Stack Web Development
+<br><br>
 
-<img src="https://img.shields.io/badge/Euphoria%20GenX-Verified-success?style=flat-square"/>
+<b>🏆 Full Stack Web Development</b>
+
+<br>
+
+<sub>Euphoria GenX</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Verified-32CD32?style=for-the-badge"/>
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 <a href="https://sumankarmakar.is-a.dev/#certifications">
-<img src="assets/certificates/js-bootstrap-php.png" width="100%" alt="JavaScript, Bootstrap, PHP Certificate"/>
+<img src="assets/certificates/js-bootstrap-php.png" width="170" height="220"/>
 </a>
 
-### 💻 JavaScript, Bootstrap & PHP
+<br><br>
 
-<img src="https://img.shields.io/badge/YouAccel-Verified-success?style=flat-square"/>
+<b>💻 JavaScript, Bootstrap & PHP</b>
+
+<br>
+
+<sub>YouAccel</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Verified-32CD32?style=for-the-badge"/>
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 <a href="https://sumankarmakar.is-a.dev/#certifications">
-<img src="assets/certificates/html-css-js.png" width="100%" alt="HTML, CSS, JS Certificate"/>
+<img src="assets/certificates/html-css-js.png" width="170" height="220"/>
 </a>
 
-### 🌐 HTML, CSS & JavaScript
+<br><br>
 
-<img src="https://img.shields.io/badge/YouAccel-Verified-success?style=flat-square"/>
+<b>🌐 HTML, CSS & JavaScript</b>
+
+<br>
+
+<sub>YouAccel</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Verified-32CD32?style=for-the-badge"/>
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 <a href="https://sumankarmakar.is-a.dev/#certifications">
-<img src="assets/certificates/google-aiml-techcamp.png" width="100%" alt="Google AI-ML Tech Camp Certificate"/>
+<img src="assets/certificates/google-aiml-techcamp.png" width="170" height="220"/>
 </a>
 
-### 🤖 Google AI-ML Tech Camp
+<br><br>
 
-<img src="https://img.shields.io/badge/EduSkills-Verified-success?style=flat-square"/>
+<b>🤖 Google AI-ML Tech Camp</b>
+
+<br>
+
+<sub>EduSkills</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Verified-32CD32?style=for-the-badge"/>
 
 </td>
 
 </tr>
 
 </table>
+
+</div>
 
 ---
 
