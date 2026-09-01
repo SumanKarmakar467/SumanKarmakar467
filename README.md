@@ -37,7 +37,24 @@
 
 ---
 
+<table width="100%">
+<tr>
+<td valign="middle">
+
 # 👋 About Me
+
+</td>
+<td valign="middle" align="right" width="170">
+
+<a href="https://github.com/SumanKarmakar467/SumanKarmakar467/blob/main/assets/resume/Suman_Karmakar_Resume.pdf">
+<img src="assets/resume/resume-preview.gif" width="150" alt="Resume preview — click to view and download"/>
+<br/>
+<img src="https://img.shields.io/badge/📄_View_%26_Download-Resume-6C5CE7?style=for-the-badge"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
 <img src="https://img.shields.io/badge/🏢_Currently_Interning_@-Flextenure_Private_Limited-6C5CE7?style=for-the-badge"/>
