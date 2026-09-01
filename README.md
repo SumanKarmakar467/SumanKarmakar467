@@ -46,7 +46,7 @@
 </td>
 <td valign="middle" align="right" width="170">
 
-<a href="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/main/assets/resume/Suman_Karmakar_Resume.pdf">
+<a href="https://cdn.jsdelivr.net/gh/SumanKarmakar467/SumanKarmakar467@main/assets/resume/Suman_Karmakar_Resume.pdf">
 <img src="assets/resume/resume-preview.gif" width="150" alt="Resume preview — click to view and download"/>
 <br/>
 <img src="https://img.shields.io/badge/📄_View_%26_Download-Resume-6C5CE7?style=for-the-badge"/>
