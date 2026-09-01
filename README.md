@@ -39,36 +39,36 @@
 
 # 👋 About Me
 
+<p align="center">
+<img src="https://img.shields.io/badge/🏢_Currently_Interning_@-Flextenure_Private_Limited-6C5CE7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💼_Open_to-Software_Engineer_Roles-00B894?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📍-Kolkata,_India-FF6B6B?style=for-the-badge"/>
+</p>
+
+```yaml
+suman.aboutMe():
+  title: "MERN Stack Developer & AI Application Builder"
+  education: "B.Tech CSE Student"
+  currentRole: "MERN Stack Intern @ Flextenure Private Limited"
+  focus: ["System Design", "DevOps & Cloud", "AI Integration"]
+  philosophy: "Ship it, break it, learn from it, ship it better."
+  funFact: "1.5k+ commits in 2026 alone — I don't have an off switch."
+```
+
 <table>
 
 <tr>
 
 <td width="42%" valign="top">
 
-### 💻 Software Developer
-
-🎓 B.Tech CSE Student
-
-🌱 Learning **DevOps & Cloud**
-
-🤖 AI Application Builder
-
-⚡ MERN Stack Developer
-
-☕ DSA with Java
-
-🚀 Passionate about building scalable applications
-
-📍 Kolkata, India
-
-<br>
-
 ## ⚡ Quick Facts
 
-- 🔭 Currently working on AI-powered projects
-- 🌱 Learning System Design
-- 💡 Love solving DSA problems
-- 🏆 Open to Software Engineer roles
+- 🏢 Interning as a **MERN Stack Developer** at Flextenure Private Limited
+- 🎓 B.Tech CSE Student
+- 🌱 Learning **System Design, DevOps & Cloud**
+- 🤖 Building AI-powered applications (Gemini AI integration)
+- ☕ DSA with Java, daily grind on LeetCode
+- 🚀 4+ shipped full-stack projects, all live in production
 - ⚡ Always learning something new
 
 <br>
@@ -85,16 +85,50 @@
 
 <td width="58%" valign="top" align="center">
 
-<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=SumanKarmakar467&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=SumanKarmakar467&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" alt="GitHub Stats"/>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SumanKarmakar467&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SumanKarmakar467&theme=radical&hide_border=true" width="100%" alt="Streak Stats"/>
 
 </td>
 
 </tr>
 
+</table>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SumanKarmakar467&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+<img src="https://github-trophies.vercel.app/?username=SumanKarmakar467&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies"/>
+</p>
+
+---
+
+# 💼 Experience
+
+<table>
+<tr>
+<td width="100%">
+
+### 🏢 MERN Stack Intern — [Flextenure Private Limited](https://www.flextenure.com)
+
+📍 Remote (Work From Home) &nbsp;|&nbsp; 🗓️ July 2026 – Present
+
+<img src="https://img.shields.io/badge/Status-Currently_Working-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Stack-React_|_Node.js_|_Express_|_MongoDB-informational?style=flat-square"/>
+
+- 🔧 Developing production web applications using the **MERN stack**
+- 🎨 Building responsive, accessible user interfaces with **React.js**
+- 🔌 Designing and shipping REST APIs with **Node.js & Express.js**
+- 🗄️ Managing and optimizing **MongoDB** databases
+- 🐞 Debugging, testing, and maintaining application performance
+- 🤝 Collaborating with the engineering team using **Git** version control
+
+</td>
+</tr>
 </table>
 
 ---
@@ -243,6 +277,96 @@ Modern developer portfolio showcasing projects, skills, certifications and achie
 </tr>
 
 </table>
+
+---
+
+# 🔀 Pull Requests & Contributions
+
+<div align="center">
+
+Click any count below to jump straight into that repo's merged PR history.
+
+<table>
+
+<tr>
+<th>Repository</th>
+<th>My Role</th>
+<th>Merged Pull Requests</th>
+</tr>
+
+<tr>
+<td align="left">🏢 <a href="https://github.com/FlexTenure-Tech/flextenure-backend">FlexTenure-Tech/flextenure-backend</a></td>
+<td align="center">MERN Stack Intern</td>
+<td align="center">
+<a href="https://github.com/FlexTenure-Tech/flextenure-backend/pulls?q=is%3Apr+author%3ASumanKarmakar467">
+<img src="https://img.shields.io/github/issues-search?query=repo%3AFlexTenure-Tech%2Fflextenure-backend%20is%3Apr%20is%3Amerged%20author%3ASumanKarmakar467&label=Merged%20PRs&color=6C5CE7&style=for-the-badge&logo=github"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="left">🏢 <a href="https://github.com/FlexTenure-Tech/merchant_frontend_ft">FlexTenure-Tech/merchant_frontend_ft</a></td>
+<td align="center">MERN Stack Intern</td>
+<td align="center">
+<a href="https://github.com/FlexTenure-Tech/merchant_frontend_ft/pulls?q=is%3Apr+author%3ASumanKarmakar467">
+<img src="https://img.shields.io/github/issues-search?query=repo%3AFlexTenure-Tech%2Fmerchant_frontend_ft%20is%3Apr%20is%3Amerged%20author%3ASumanKarmakar467&label=Merged%20PRs&color=6C5CE7&style=for-the-badge&logo=github"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="left">🏋️ <a href="https://github.com/SumanKarmakar467/GYM">SumanKarmakar467/GYM</a></td>
+<td align="center">Owner</td>
+<td align="center">
+<a href="https://github.com/SumanKarmakar467/GYM/pulls?q=is%3Apr+author%3ASumanKarmakar467">
+<img src="https://img.shields.io/github/issues-search?query=repo%3ASumanKarmakar467%2FGYM%20is%3Apr%20is%3Amerged%20author%3ASumanKarmakar467&label=Merged%20PRs&color=success&style=for-the-badge&logo=github"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="left">🧠 <a href="https://github.com/SumanKarmakar467/Resume_Checker">SumanKarmakar467/Resume_Checker</a></td>
+<td align="center">Owner</td>
+<td align="center">
+<a href="https://github.com/SumanKarmakar467/Resume_Checker/pulls?q=is%3Apr+author%3ASumanKarmakar467">
+<img src="https://img.shields.io/github/issues-search?query=repo%3ASumanKarmakar467%2FResume_Checker%20is%3Apr%20is%3Amerged%20author%3ASumanKarmakar467&label=Merged%20PRs&color=success&style=for-the-badge&logo=github"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="left">🔍 <a href="https://github.com/SumanKarmakar467/VerifyAI">SumanKarmakar467/VerifyAI</a></td>
+<td align="center">Owner</td>
+<td align="center">
+<a href="https://github.com/SumanKarmakar467/VerifyAI/pulls?q=is%3Apr+author%3ASumanKarmakar467">
+<img src="https://img.shields.io/github/issues-search?query=repo%3ASumanKarmakar467%2FVerifyAI%20is%3Apr%20is%3Amerged%20author%3ASumanKarmakar467&label=Merged%20PRs&color=success&style=for-the-badge&logo=github"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="left">🌐 <a href="https://github.com/SumanKarmakar467/Portfolio">SumanKarmakar467/Portfolio</a></td>
+<td align="center">Owner</td>
+<td align="center">
+<a href="https://github.com/SumanKarmakar467/Portfolio/pulls?q=is%3Apr+author%3ASumanKarmakar467">
+<img src="https://img.shields.io/github/issues-search?query=repo%3ASumanKarmakar467%2FPortfolio%20is%3Apr%20is%3Amerged%20author%3ASumanKarmakar467&label=Merged%20PRs&color=success&style=for-the-badge&logo=github"/>
+</a>
+</td>
+</tr>
+
+</table>
+
+</div>
+
+### 🌍 Open Source Contributions <sub>(auto-updated daily)</sub>
+
+Every public repo I've ever sent a merged PR to shows up here automatically — no manual edits needed. A GitHub Action re-scans my contributions every day and refreshes this table.
+
+<!-- PR-LIST:START -->
+_Not scanned yet — this table fills in after the first run of the "Update PR Contributions" workflow._
+<!-- PR-LIST:END -->
+
+<sub>⚠️ Private repos (like the FlexTenure ones above) aren't discoverable by public search, so they're listed manually. Everything public updates itself.</sub>
 
 ---
 

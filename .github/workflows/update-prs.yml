@@ -1,0 +1,82 @@
+name: Update PR Contributions
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+
+  push:
+    branches:
+      - main
+
+  workflow_dispatch:
+
+jobs:
+  update:
+    permissions:
+      contents: write
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Scan merged PRs and rebuild table
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const username = 'SumanKarmakar467';
+
+            const results = await github.paginate(
+              github.rest.search.issuesAndPullRequests,
+              { q: `is:pr is:merged author:${username}`, per_page: 100 }
+            );
+
+            const counts = new Map();
+            for (const item of results) {
+              const match = item.repository_url.match(/repos\/(.+)$/);
+              if (!match) continue;
+              const repo = match[1];
+              counts.set(repo, (counts.get(repo) || 0) + 1);
+            }
+
+            const sorted = [...counts.entries()].sort((a, b) => b[1] - a[1]);
+
+            let table;
+            if (sorted.length === 0) {
+              table = '_No merged public pull requests found yet — go ship one! 🚀_';
+            } else {
+              const rows = sorted.map(([repo, count]) => {
+                const prUrl = `https://github.com/${repo}/pulls?q=is%3Apr+is%3Amerged+author%3A${username}`;
+                const badge = `https://img.shields.io/github/issues-search?query=repo%3A${encodeURIComponent(repo)}%20is%3Apr%20is%3Amerged%20author%3A${username}&label=Merged%20PRs&color=6C5CE7&style=for-the-badge&logo=github`;
+                return `| [\`${repo}\`](https://github.com/${repo}) | [![Merged PRs](${badge})](${prUrl}) |`;
+              });
+              table = [
+                '| Repository | Merged Pull Requests |',
+                '|---|---|',
+                ...rows,
+              ].join('\n');
+            }
+
+            const readme = fs.readFileSync('README.md', 'utf8');
+            const start = '<!-- PR-LIST:START -->';
+            const end = '<!-- PR-LIST:END -->';
+            const startIdx = readme.indexOf(start);
+            const endIdx = readme.indexOf(end);
+            if (startIdx === -1 || endIdx === -1) {
+              core.setFailed('PR-LIST markers not found in README.md');
+              return;
+            }
+            const updated =
+              readme.slice(0, startIdx + start.length) +
+              '\n' + table + '\n' +
+              readme.slice(endIdx);
+            fs.writeFileSync('README.md', updated);
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update open source PR contributions"
+          git push
