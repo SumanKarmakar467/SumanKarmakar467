@@ -363,7 +363,9 @@ Click any count below to jump straight into that repo's merged PR history.
 Every public repo I've ever sent a merged PR to shows up here automatically — no manual edits needed. A GitHub Action re-scans my contributions every day and refreshes this table.
 
 <!-- PR-LIST:START -->
-_Not scanned yet — this table fills in after the first run of the "Update PR Contributions" workflow._
+| Repository | Merged Pull Requests |
+|---|---|
+| [`is-a-dev/register`](https://github.com/is-a-dev/register) | [![Merged PRs](https://img.shields.io/github/issues-search?query=repo%3Ais-a-dev%2Fregister%20is%3Apr%20is%3Amerged%20author%3ASumanKarmakar467&label=Merged%20PRs&color=6C5CE7&style=for-the-badge&logo=github)](https://github.com/is-a-dev/register/pulls?q=is%3Apr+is%3Amerged+author%3ASumanKarmakar467) |
 <!-- PR-LIST:END -->
 
 <sub>⚠️ Private repos (like the FlexTenure ones above) aren't discoverable by public search, so they're listed manually. Everything public updates itself.</sub>
