@@ -118,14 +118,21 @@ suman.aboutMe():
 📍 Remote (Work From Home) &nbsp;|&nbsp; 🗓️ July 2026 – Present
 
 <img src="https://img.shields.io/badge/Status-Currently_Working-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Stack-React_|_Node.js_|_Express_|_MongoDB-informational?style=flat-square"/>
+<img src="https://img.shields.io/badge/Stack-React_19_|_Vite_|_Tailwind_|_Node.js_|_Express_|_PostgreSQL-informational?style=flat-square"/>
 
-- 🔧 Developing production web applications using the **MERN stack**
-- 🎨 Building responsive, accessible user interfaces with **React.js**
-- 🔌 Designing and shipping REST APIs with **Node.js & Express.js**
-- 🗄️ Managing and optimizing **MongoDB** databases
-- 🐞 Debugging, testing, and maintaining application performance
-- 🤝 Collaborating with the engineering team using **Git** version control
+Driving frontend feature development on **Flextenure's merchant onboarding platform** (React 19 + Vite + Tailwind CSS v4 + shadcn/ui), while collaborating with the team on the Node.js/Express + PostgreSQL backend that powers it.
+
+**🖥️ [merchant_frontend_ft](https://github.com/FlexTenure-Tech/merchant_frontend_ft) — Merchant Onboarding Frontend**
+- 🏦 Built the **Bank Details** and **Merchant Agreement** pages for the onboarding flow
+- 🪪 Implemented the **KYC Verification** page and document upload flow, including a delete/alert feature
+- 📇 Shipped the **Business Details** page (incl. address field) and **Application Status** tracking page
+- 📊 Built the **Merchant List** page and a **Reports & Statements** page for admin-side data
+- 🌓 Added app-wide **dark/light theme toggle** and a shared footer across all onboarding steps
+- 🔀 Resolved merge conflicts across parallel feature branches during integration into `main`
+
+**⚙️ [flextenure-backend](https://github.com/FlexTenure-Tech/flextenure-backend) — API & Services**
+- 🔌 Working with the team's REST API layer (**Node.js, Express, PostgreSQL**) covering auth, KYC, business details, bank details, agreements, and reports
+- 🔐 Getting hands-on with JWT-based auth, Google OAuth, and PDF generation (`pdfkit`) used across the onboarding pipeline
 
 </td>
 </tr>
@@ -294,12 +301,13 @@ Click any count below to jump straight into that repo's merged PR history.
 <th>Merged Pull Requests</th>
 </tr>
 
+<!-- PRIVATE-PR-LIST:START -->
 <tr>
 <td align="left">🏢 <a href="https://github.com/FlexTenure-Tech/flextenure-backend">FlexTenure-Tech/flextenure-backend</a></td>
 <td align="center">MERN Stack Intern</td>
 <td align="center">
-<a href="https://github.com/FlexTenure-Tech/flextenure-backend/pulls?q=is%3Apr+author%3ASumanKarmakar467">
-<img src="https://img.shields.io/github/issues-search?query=repo%3AFlexTenure-Tech%2Fflextenure-backend%20is%3Apr%20is%3Amerged%20author%3ASumanKarmakar467&label=Merged%20PRs&color=6C5CE7&style=for-the-badge&logo=github"/>
+<a href="https://github.com/FlexTenure-Tech/flextenure-backend/pulls?q=is%3Apr+is%3Amerged+author%3ASumanKarmakar467">
+<img src="https://img.shields.io/badge/Merged_PRs-0-6C5CE7?style=for-the-badge&logo=github"/>
 </a>
 </td>
 </tr>
@@ -308,11 +316,12 @@ Click any count below to jump straight into that repo's merged PR history.
 <td align="left">🏢 <a href="https://github.com/FlexTenure-Tech/merchant_frontend_ft">FlexTenure-Tech/merchant_frontend_ft</a></td>
 <td align="center">MERN Stack Intern</td>
 <td align="center">
-<a href="https://github.com/FlexTenure-Tech/merchant_frontend_ft/pulls?q=is%3Apr+author%3ASumanKarmakar467">
-<img src="https://img.shields.io/github/issues-search?query=repo%3AFlexTenure-Tech%2Fmerchant_frontend_ft%20is%3Apr%20is%3Amerged%20author%3ASumanKarmakar467&label=Merged%20PRs&color=6C5CE7&style=for-the-badge&logo=github"/>
+<a href="https://github.com/FlexTenure-Tech/merchant_frontend_ft/pulls?q=is%3Apr+is%3Amerged+author%3ASumanKarmakar467">
+<img src="https://img.shields.io/badge/Merged_PRs-5-6C5CE7?style=for-the-badge&logo=github"/>
 </a>
 </td>
 </tr>
+<!-- PRIVATE-PR-LIST:END -->
 
 <tr>
 <td align="left">🏋️ <a href="https://github.com/SumanKarmakar467/GYM">SumanKarmakar467/GYM</a></td>
@@ -368,7 +377,7 @@ Every public repo I've ever sent a merged PR to shows up here automatically — 
 | [`is-a-dev/register`](https://github.com/is-a-dev/register) | [![Merged PRs](https://img.shields.io/github/issues-search?query=repo%3Ais-a-dev%2Fregister%20is%3Apr%20is%3Amerged%20author%3ASumanKarmakar467&label=Merged%20PRs&color=6C5CE7&style=for-the-badge&logo=github)](https://github.com/is-a-dev/register/pulls?q=is%3Apr+is%3Amerged+author%3ASumanKarmakar467) |
 <!-- PR-LIST:END -->
 
-<sub>⚠️ Private repos (like the FlexTenure ones above) aren't discoverable by public search, so they're listed manually. Everything public updates itself.</sub>
+<sub>⚠️ Private repos (like the FlexTenure ones above) aren't visible to public badge services, so their counts are baked in. They'll refresh automatically once a `FLEXTENURE_PAT` repo secret (a personal access token with read access to FlexTenure-Tech) is added — see the workflow for setup.</sub>
 
 ---
 
