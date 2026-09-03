@@ -26,8 +26,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#238636,#26a641,#39d353,#56d364,#7ee787
-            dist/github-contribution-grid-snake-dark.gif?palette=github-dark&color_snake=#00f7ff
 
       - uses: actions/setup-node@v4
         with:
