@@ -498,7 +498,7 @@ alt="Snake eating my GitHub contribution graph"/>
 <div align="center">
 
 <a href="https://leetcode.com/u/suman2k04/">
-<img src="https://leetcard.jacoblin.cool/suman2k04?theme=dark&font=Poppins&ext=contest&extra=badge" width="65%"/>
+<img src="https://leetcard.jacoblin.cool/suman2k04?theme=dark&font=Poppins&ext=heatmap" width="90%"/>
 </a>
 
 <br><br>
@@ -506,6 +506,12 @@ alt="Snake eating my GitHub contribution graph"/>
 <img src="https://img.shields.io/badge/Easy-34%20%2F%20962-00B894?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Medium-49%20%2F%202109-FFC107?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hard-5%20%2F%20971-E74C3C?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://leetcode.com/u/suman2k04/">
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=suman2k04&theme=dark" width="90%"/>
+</a>
 
 </div>
 
