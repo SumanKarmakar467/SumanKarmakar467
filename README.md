@@ -476,17 +476,9 @@ Actively improving personal and collaborative projects.
 
 ---
 
-# 🐍 Coding Journey
+# 🐍 GitHub Contribution Snake
 
-<table>
-
-<tr>
-
-<td width="58%" valign="top">
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
+<div align="center">
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/github-contribution-grid-snake-dark.svg">
@@ -494,34 +486,28 @@ Actively improving personal and collaborative projects.
 <img
 src="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/github-contribution-grid-snake-dark.svg"
 width="100%"
-alt="Snake Animation"/>
+alt="Snake eating my GitHub contribution graph"/>
 </picture>
 
-</p>
+</div>
 
-</td>
+---
 
-<td width="42%" valign="top">
+# 💻 LeetCode Stats
 
-<h2 align="center">💻 LeetCode</h2>
-
-<p align="center">
+<div align="center">
 
 <a href="https://leetcode.com/u/suman2k04/">
-
-<img
-src="https://leetcard.jacoblin.cool/suman2k04?theme=dark&font=Poppins&ext=contest"
-width="100%"/>
-
+<img src="https://leetcard.jacoblin.cool/suman2k04?theme=dark&font=Poppins&ext=contest&extra=badge" width="65%"/>
 </a>
 
-</p>
+<br><br>
 
-</td>
+<img src="https://img.shields.io/badge/Easy-34%20%2F%20962-00B894?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Medium-49%20%2F%202109-FFC107?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hard-5%20%2F%20971-E74C3C?style=for-the-badge"/>
 
-</tr>
-
-</table>
+</div>
 
 ---
 
