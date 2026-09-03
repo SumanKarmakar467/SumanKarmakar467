@@ -509,9 +509,9 @@ alt="Snake eating my LeetCode submission calendar"/>
 <br><br>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/leetcode-donut-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="assets/leetcode-donut.svg">
-<img src="assets/leetcode-donut-dark.svg" width="60%" alt="LeetCode Easy/Medium/Hard solved breakdown"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/leetcode-donut-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/leetcode-donut.svg">
+<img src="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/leetcode-donut-dark.svg" width="60%" alt="LeetCode Easy/Medium/Hard solved breakdown"/>
 </picture>
 
 <br><br>

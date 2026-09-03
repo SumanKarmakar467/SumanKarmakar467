@@ -34,6 +34,9 @@ jobs:
       - name: Generate LeetCode snake
         run: node scripts/leetcode-snake.mjs suman2k04 dist
 
+      - name: Generate LeetCode donut
+        run: node scripts/leetcode-donut.mjs suman2k04 dist
+
       - name: Push snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
