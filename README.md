@@ -476,7 +476,7 @@ Actively improving personal and collaborative projects.
 
 ---
 
-# 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
 
@@ -493,7 +493,7 @@ alt="Snake eating my GitHub contribution graph"/>
 
 ---
 
-# 💻 LeetCode Stats
+## 💻 LeetCode Stats
 
 <div align="center">
 
