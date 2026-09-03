@@ -18,6 +18,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: SumanKarmakar467
@@ -26,6 +28,13 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#238636,#26a641,#39d353,#56d364,#7ee787
             dist/github-contribution-grid-snake-dark.gif?palette=github-dark&color_snake=#00f7ff
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate LeetCode snake
+        run: node scripts/leetcode-snake.mjs suman2k04 dist
 
       - name: Push snake
         uses: crazy-max/ghaction-github-pages@v4

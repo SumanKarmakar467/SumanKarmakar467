@@ -497,9 +497,14 @@ alt="Snake eating my GitHub contribution graph"/>
 
 <div align="center">
 
-<a href="https://leetcode.com/u/suman2k04/">
-<img src="https://leetcard.jacoblin.cool/suman2k04?theme=dark&font=Poppins&ext=heatmap" width="90%"/>
-</a>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/leetcode-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/leetcode-contribution-grid-snake.svg">
+<img
+src="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/leetcode-contribution-grid-snake-dark.svg"
+width="90%"
+alt="Snake eating my LeetCode submission calendar"/>
+</picture>
 
 <br><br>
 
