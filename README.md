@@ -508,17 +508,29 @@ alt="Snake eating my LeetCode submission calendar"/>
 
 <br><br>
 
+<table>
+<tr>
+
+<td width="50%" valign="middle" align="center">
+
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/leetcode-donut-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/leetcode-donut.svg">
-<img src="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/leetcode-donut-dark.svg" width="60%" alt="LeetCode Easy/Medium/Hard solved breakdown"/>
+<img src="https://raw.githubusercontent.com/SumanKarmakar467/SumanKarmakar467/output/leetcode-donut-dark.svg" width="100%" alt="LeetCode Easy/Medium/Hard solved breakdown"/>
 </picture>
 
-<br><br>
+</td>
+
+<td width="50%" valign="middle" align="center">
 
 <a href="https://leetcode.com/u/suman2k04/">
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=suman2k04&theme=dark" width="90%"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=suman2k04&theme=dark" width="100%"/>
 </a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
