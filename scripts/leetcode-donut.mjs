@@ -14,19 +14,40 @@ if (!USERNAME) {
   process.exit(1);
 }
 
-const COLORS = { Easy: "#00b894", Medium: "#ffc107", Hard: "#e74c3c" };
-
-const THEMES = {
-  light: { background: "#ffffff", track: "#ebedf0", text: "#1a1a1a", sub: "#57606a" },
-  dark: { background: "#0d1117", track: "#21262d", text: "#e6edf3", sub: "#8b949e" },
+const COLORS = {
+  Easy: { from: "#34e0a1", to: "#00b894" },
+  Medium: { from: "#ffd54f", to: "#ff9f1a" },
+  Hard: { from: "#ff7b7b", to: "#e63946" },
 };
 
-const SIZE = 320;
+const THEMES = {
+  light: {
+    cardFrom: "#ffffff",
+    cardTo: "#f5f6fb",
+    border: "#e4e7ee",
+    track: "#eceef4",
+    text: "#14161a",
+    sub: "#6b7280",
+    shadow: "#94a3b8",
+  },
+  dark: {
+    cardFrom: "#12161f",
+    cardTo: "#0a0d13",
+    border: "#232837",
+    track: "#1c2130",
+    text: "#f2f4f8",
+    sub: "#8b93a7",
+    shadow: "#000000",
+  },
+};
+
+const TITLE_H = 40;
+const SIZE = 320 + TITLE_H;
 const CX = 130;
-const CY = 160;
-const OUTER = 100;
-const INNER = 62;
-const GAP_DEG = 3;
+const CY = 158 + TITLE_H;
+const RADIUS = 78;
+const STROKE = 24;
+const GAP_PX = 10;
 
 async function fetchSolvedCounts(username) {
   const query = `
@@ -81,59 +102,83 @@ async function fetchSolvedCounts(username) {
     label,
     solved: solvedByDifficulty[label] ?? 0,
     total: totalByDifficulty[label] ?? 0,
-    color: COLORS[label],
+    gradient: COLORS[label],
   }));
 }
 
-function polar(cx, cy, r, angleDeg) {
-  const rad = ((angleDeg - 90) * Math.PI) / 180;
-  return [cx + r * Math.cos(rad), cy + r * Math.sin(rad)];
-}
-
-function arcPath(cx, cy, outer, inner, startDeg, endDeg) {
-  const large = endDeg - startDeg > 180 ? 1 : 0;
-  const [x1, y1] = polar(cx, cy, outer, startDeg);
-  const [x2, y2] = polar(cx, cy, outer, endDeg);
-  const [x3, y3] = polar(cx, cy, inner, endDeg);
-  const [x4, y4] = polar(cx, cy, inner, startDeg);
-  return [
-    `M ${x1} ${y1}`,
-    `A ${outer} ${outer} 0 ${large} 1 ${x2} ${y2}`,
-    `L ${x3} ${y3}`,
-    `A ${inner} ${inner} 0 ${large} 0 ${x4} ${y4}`,
-    "Z",
-  ].join(" ");
-}
+const FONT = "'Poppins', 'Segoe UI', sans-serif";
+const CIRCUMFERENCE = 2 * Math.PI * RADIUS;
 
 function renderDonut(data, totalSolved, theme) {
-  let angle = 0;
-  const slices = data
-    .filter((d) => d.solved > 0)
-    .map((d) => {
-      const sweep = (d.solved / totalSolved) * 360;
-      const start = angle + (sweep < 360 ? GAP_DEG / 2 : 0);
-      const end = angle + sweep - (sweep < 360 ? GAP_DEG / 2 : 0);
-      angle += sweep;
-      return `<path d="${arcPath(CX, CY, OUTER, INNER, start, end)}" fill="${d.color}"/>`;
+  const active = data.filter((d) => d.solved > 0);
+  const usable = CIRCUMFERENCE - GAP_PX * active.length;
+
+  let cumulative = 0;
+  const segments = active
+    .map((d, i) => {
+      const segLen = (d.solved / totalSolved) * usable;
+      const offset = cumulative + GAP_PX * i;
+      cumulative += segLen;
+      return `<circle cx="${CX}" cy="${CY}" r="${RADIUS}" fill="none" stroke="url(#grad-${d.label})"
+        stroke-width="${STROKE}" stroke-linecap="round"
+        stroke-dasharray="${segLen.toFixed(2)} ${(CIRCUMFERENCE - segLen).toFixed(2)}"
+        stroke-dashoffset="${(-offset).toFixed(2)}"
+        transform="rotate(-90 ${CX} ${CY})" filter="url(#ringGlow)"/>`;
     })
     .join("\n  ");
 
+  const gradients = data
+    .map(
+      (d) => `<linearGradient id="grad-${d.label}" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="${d.gradient.from}"/>
+      <stop offset="100%" stop-color="${d.gradient.to}"/>
+    </linearGradient>`,
+    )
+    .join("\n    ");
+
+  const maxSolved = Math.max(1, ...data.map((d) => d.solved));
   const legend = data
     .map((d, i) => {
-      const y = 70 + i * 34;
+      const y = 54 + TITLE_H + i * 44;
+      const pct = totalSolved ? Math.round((d.solved / totalSolved) * 100) : 0;
+      const barW = 116;
+      const fillW = Math.max(3, (d.solved / maxSolved) * barW);
       return `
-    <rect x="260" y="${y - 12}" width="14" height="14" rx="3" fill="${d.color}"/>
-    <text x="282" y="${y}" font-family="Poppins, Segoe UI, sans-serif" font-size="14" font-weight="600" fill="${theme.text}">${d.label}</text>
-    <text x="282" y="${y + 17}" font-family="Poppins, Segoe UI, sans-serif" font-size="11" fill="${theme.sub}">${d.solved} / ${d.total}</text>`;
+    <circle cx="266" cy="${y - 5}" r="5" fill="url(#grad-${d.label})"/>
+    <text x="280" y="${y}" font-family="${FONT}" font-size="14" font-weight="600" fill="${theme.text}">${d.label}</text>
+    <text x="440" y="${y}" text-anchor="end" font-family="${FONT}" font-size="13" font-weight="700" fill="${d.gradient.to}">${pct}%</text>
+    <rect x="266" y="${y + 8}" width="${barW}" height="5" rx="2.5" fill="${theme.track}"/>
+    <rect x="266" y="${y + 8}" width="${fillW.toFixed(1)}" height="5" rx="2.5" fill="url(#grad-${d.label})"/>
+    <text x="440" y="${y + 22}" text-anchor="end" font-family="${FONT}" font-size="10.5" fill="${theme.sub}">${d.solved} / ${d.total}</text>`;
     })
     .join("\n");
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="460" height="${SIZE}" viewBox="0 0 460 ${SIZE}">
-  <rect width="460" height="${SIZE}" rx="12" fill="${theme.background}"/>
-  <circle cx="${CX}" cy="${CY}" r="${OUTER}" fill="${theme.track}" opacity="0.35"/>
-  ${slices}
-  <text x="${CX}" y="${CY - 4}" text-anchor="middle" font-family="Poppins, Segoe UI, sans-serif" font-size="40" font-weight="700" fill="${theme.text}">${totalSolved}</text>
-  <text x="${CX}" y="${CY + 20}" text-anchor="middle" font-family="Poppins, Segoe UI, sans-serif" font-size="13" fill="${theme.sub}">Solved</text>
+  <defs>
+    ${gradients}
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="${theme.cardFrom}"/>
+      <stop offset="100%" stop-color="${theme.cardTo}"/>
+    </linearGradient>
+    <filter id="ringGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="${theme.shadow}" flood-opacity="0.35"/>
+    </filter>
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="10" flood-color="${theme.shadow}" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect x="3" y="3" width="454" height="${SIZE - 6}" rx="18" fill="url(#cardBg)" stroke="${theme.border}" stroke-width="1" filter="url(#cardShadow)"/>
+
+  <text x="24" y="34" font-family="${FONT}" font-size="16" font-weight="700" fill="${theme.text}">🧩 LeetCode Problems Solved</text>
+  <line x1="24" y1="48" x2="436" y2="48" stroke="${theme.border}" stroke-width="1"/>
+
+  <circle cx="${CX}" cy="${CY}" r="${RADIUS}" fill="none" stroke="${theme.track}" stroke-width="${STROKE}"/>
+  ${segments}
+
+  <text x="${CX}" y="${CY - 6}" text-anchor="middle" font-family="${FONT}" font-size="42" font-weight="800" fill="${theme.text}">${totalSolved}</text>
+  <text x="${CX}" y="${CY + 20}" text-anchor="middle" font-family="${FONT}" font-size="12" font-weight="600" letter-spacing="1.5" fill="${theme.sub}">SOLVED</text>
+
   ${legend}
 </svg>`;
 }
