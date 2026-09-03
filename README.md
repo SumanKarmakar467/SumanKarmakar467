@@ -508,10 +508,11 @@ alt="Snake eating my LeetCode submission calendar"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Total%20Solved-88-6C5CE7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Easy-34%20%2F%20962-00B894?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Medium-49%20%2F%202109-FFC107?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hard-5%20%2F%20971-E74C3C?style=for-the-badge"/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/leetcode-donut-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/leetcode-donut.svg">
+<img src="assets/leetcode-donut-dark.svg" width="60%" alt="LeetCode Easy/Medium/Hard solved breakdown"/>
+</picture>
 
 <br><br>
 
