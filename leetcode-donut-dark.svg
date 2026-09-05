@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="360" viewBox="0 0 460 360">
+  <defs>
+    <linearGradient id="grad-Easy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34e0a1"/>
+      <stop offset="100%" stop-color="#00b894"/>
+    </linearGradient>
+    <linearGradient id="grad-Medium" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffd54f"/>
+      <stop offset="100%" stop-color="#ff9f1a"/>
+    </linearGradient>
+    <linearGradient id="grad-Hard" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff7b7b"/>
+      <stop offset="100%" stop-color="#e63946"/>
+    </linearGradient>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#12161f"/>
+      <stop offset="100%" stop-color="#0a0d13"/>
+    </linearGradient>
+    <filter id="ringGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="10" flood-color="#000000" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect x="3" y="3" width="454" height="354" rx="18" fill="url(#cardBg)" stroke="#232837" stroke-width="1" filter="url(#cardShadow)"/>
+
+  <text x="24" y="34" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="16" font-weight="700" fill="#f2f4f8">🧩 LeetCode Problems Solved</text>
+  <line x1="24" y1="48" x2="436" y2="48" stroke="#232837" stroke-width="1"/>
+
+  <circle cx="130" cy="198" r="78" fill="none" stroke="#1c2130" stroke-width="24"/>
+  <circle cx="130" cy="198" r="78" fill="none" stroke="url(#grad-Easy)"
+        stroke-width="24" stroke-linecap="round"
+        stroke-dasharray="177.76 312.33"
+        stroke-dashoffset="0.00"
+        transform="rotate(-90 130 198)" filter="url(#ringGlow)"/>
+  <circle cx="130" cy="198" r="78" fill="none" stroke="url(#grad-Medium)"
+        stroke-width="24" stroke-linecap="round"
+        stroke-dasharray="256.19 233.90"
+        stroke-dashoffset="-187.76"
+        transform="rotate(-90 130 198)" filter="url(#ringGlow)"/>
+  <circle cx="130" cy="198" r="78" fill="none" stroke="url(#grad-Hard)"
+        stroke-width="24" stroke-linecap="round"
+        stroke-dasharray="26.14 463.95"
+        stroke-dashoffset="-453.95"
+        transform="rotate(-90 130 198)" filter="url(#ringGlow)"/>
+
+  <text x="130" y="192" text-anchor="middle" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="42" font-weight="800" fill="#f2f4f8">88</text>
+  <text x="130" y="218" text-anchor="middle" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="12" font-weight="600" letter-spacing="1.5" fill="#8b93a7">SOLVED</text>
+
+  
+    <circle cx="266" cy="89" r="5" fill="url(#grad-Easy)"/>
+    <text x="280" y="94" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="14" font-weight="600" fill="#f2f4f8">Easy</text>
+    <text x="440" y="94" text-anchor="end" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#00b894">39%</text>
+    <rect x="266" y="102" width="116" height="5" rx="2.5" fill="#1c2130"/>
+    <rect x="266" y="102" width="80.5" height="5" rx="2.5" fill="url(#grad-Easy)"/>
+    <text x="440" y="116" text-anchor="end" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="10.5" fill="#8b93a7">34 / 962</text>
+
+    <circle cx="266" cy="133" r="5" fill="url(#grad-Medium)"/>
+    <text x="280" y="138" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="14" font-weight="600" fill="#f2f4f8">Medium</text>
+    <text x="440" y="138" text-anchor="end" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#ff9f1a">56%</text>
+    <rect x="266" y="146" width="116" height="5" rx="2.5" fill="#1c2130"/>
+    <rect x="266" y="146" width="116.0" height="5" rx="2.5" fill="url(#grad-Medium)"/>
+    <text x="440" y="160" text-anchor="end" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="10.5" fill="#8b93a7">49 / 2109</text>
+
+    <circle cx="266" cy="177" r="5" fill="url(#grad-Hard)"/>
+    <text x="280" y="182" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="14" font-weight="600" fill="#f2f4f8">Hard</text>
+    <text x="440" y="182" text-anchor="end" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#e63946">6%</text>
+    <rect x="266" y="190" width="116" height="5" rx="2.5" fill="#1c2130"/>
+    <rect x="266" y="190" width="11.8" height="5" rx="2.5" fill="url(#grad-Hard)"/>
+    <text x="440" y="204" text-anchor="end" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="10.5" fill="#8b93a7">5 / 971</text>
+</svg>
